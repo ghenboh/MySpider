@@ -1,0 +1,1651 @@
+学校名为NWPU
+全国最高分之平均分：649.7692307692307
+全国最低分之平均分：627.6923076923077
+展示的省份为：山东
+展示的专业为： 计算机类
+Score{time=2023, province='山东', major='计算机类', minScore=655, maxScore=662, averageScore=656.62}
+展示的专业为： 柔性电子学（本研衔接班）
+Score{time=2023, province='山东', major='柔性电子学（本研衔接班）', minScore=647, maxScore=652, averageScore=648.8}
+展示的专业为： 计算机类（网络安全）
+Score{time=2023, province='山东', major='计算机类（网络安全）', minScore=652, maxScore=656, averageScore=653.12}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='山东', major='能源动力类（航空动力与新能源试验班）', minScore=645, maxScore=651, averageScore=646.8}
+展示的专业为： 软件工程
+Score{time=2023, province='山东', major='软件工程', minScore=648, maxScore=653, averageScore=649.33}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='山东', major='机械类（航宇智能制造试验班）', minScore=647, maxScore=658, averageScore=649.5}
+展示的专业为： 航空航天类
+Score{time=2023, province='山东', major='航空航天类', minScore=651, maxScore=657, averageScore=653.44}
+展示的专业为： 自动化类
+Score{time=2023, province='山东', major='自动化类', minScore=647, maxScore=651, averageScore=648.5}
+展示的专业为： 数学类
+Score{time=2023, province='山东', major='数学类', minScore=645, maxScore=646, averageScore=645.25}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='山东', major='航空航天类（智慧三航本研衔接班）', minScore=659, maxScore=660, averageScore=659.14}
+展示的专业为： 工程力学（力学拔尖基地班）
+Score{time=2023, province='山东', major='工程力学（力学拔尖基地班）', minScore=651, maxScore=652, averageScore=651.5}
+展示的专业为： 航空航天类（民用航空）
+Score{time=2023, province='山东', major='航空航天类（民用航空）', minScore=646, maxScore=648, averageScore=646.87}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='山东', major='海洋工程类（智慧海洋试验班）', minScore=641, maxScore=645, averageScore=642.75}
+展示的专业为： 电子信息类
+Score{time=2023, province='山东', major='电子信息类', minScore=649, maxScore=657, averageScore=650.92}
+展示的专业为： 力学类（工程应用力学试验班）
+Score{time=2023, province='山东', major='力学类（工程应用力学试验班）', minScore=637, maxScore=643, averageScore=639.2}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='山东', major='材料类（新材料与化工试验班）', minScore=638, maxScore=646, averageScore=641.69}
+展示的专业为： 物理学类
+Score{time=2023, province='山东', major='物理学类', minScore=642, maxScore=645, averageScore=643.11}
+展示的专业为： 电子信息类（集成电路）
+Score{time=2023, province='山东', major='电子信息类（集成电路）', minScore=648, maxScore=657, averageScore=650.3}
+展示的专业为： 航空航天类（陈士橹飞天班）
+Score{time=2023, province='山东', major='航空航天类（陈士橹飞天班）', minScore=660, maxScore=665, averageScore=662.5}
+展示的专业为： 航空航天类（黄玉珊航空班）
+Score{time=2023, province='山东', major='航空航天类（黄玉珊航空班）', minScore=660, maxScore=661, averageScore=660.5}
+展示的专业为： 海洋工程类（黄震中海洋班）
+Score{time=2023, province='山东', major='海洋工程类（黄震中海洋班）', minScore=649, maxScore=654, averageScore=651.5}
+展示的省份为：福建
+展示的专业为： 计算机类
+Score{time=2023, province='福建', major='计算机类', minScore=650, maxScore=653, averageScore=651.5}
+展示的专业为： 柔性电子学（本研衔接班）
+Score{time=2023, province='福建', major='柔性电子学（本研衔接班）', minScore=650, maxScore=653, averageScore=651.5}
+展示的专业为： 工商管理类（管理试验班）
+Score{time=2023, province='福建', major='工商管理类（管理试验班）', minScore=646, maxScore=646, averageScore=646.0}
+展示的专业为： 软件工程
+Score{time=2023, province='福建', major='软件工程', minScore=649, maxScore=649, averageScore=649.0}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='福建', major='机械类（航宇智能制造试验班）', minScore=648, maxScore=650, averageScore=649.0}
+展示的专业为： 航空航天类
+Score{time=2023, province='福建', major='航空航天类', minScore=652, maxScore=658, averageScore=654.38}
+展示的专业为： 自动化类
+Score{time=2023, province='福建', major='自动化类', minScore=648, maxScore=651, averageScore=649.33}
+展示的专业为： 生态学（生态文明交叉试验班）
+Score{time=2023, province='福建', major='生态学（生态文明交叉试验班）', minScore=633, maxScore=635, averageScore=634.0}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='福建', major='航空航天类（智慧三航本研衔接班）', minScore=658, maxScore=661, averageScore=659.5}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='福建', major='海洋工程类（智慧海洋试验班）', minScore=646, maxScore=649, averageScore=647.62}
+展示的专业为： 生物技术（生命科学试验班）
+Score{time=2023, province='福建', major='生物技术（生命科学试验班）', minScore=638, maxScore=639, averageScore=638.33}
+展示的专业为： 电子信息类
+Score{time=2023, province='福建', major='电子信息类', minScore=649, maxScore=652, averageScore=650.5}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='福建', major='材料类（新材料与化工试验班）', minScore=647, maxScore=648, averageScore=647.5}
+展示的专业为： 航空航天类（黄玉珊航空班）
+Score{time=2023, province='福建', major='航空航天类（黄玉珊航空班）', minScore=662, maxScore=664, averageScore=663.0}
+展示的省份为：河北
+展示的专业为： 计算机科学与技术（计算机科学拔尖基地班）
+Score{time=2023, province='河北', major='计算机科学与技术（计算机科学拔尖基地班）', minScore=656, maxScore=656, averageScore=656.0}
+展示的专业为： 计算机类
+Score{time=2023, province='河北', major='计算机类', minScore=651, maxScore=654, averageScore=652.6}
+展示的专业为： 柔性电子学（本研衔接班）
+Score{time=2023, province='河北', major='柔性电子学（本研衔接班）', minScore=646, maxScore=650, averageScore=648.0}
+展示的专业为： 计算机类（网络安全）
+Score{time=2023, province='河北', major='计算机类（网络安全）', minScore=648, maxScore=651, averageScore=649.2}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='河北', major='能源动力类（航空动力与新能源试验班）', minScore=640, maxScore=649, averageScore=641.83}
+展示的专业为： 软件工程
+Score{time=2023, province='河北', major='软件工程', minScore=643, maxScore=647, averageScore=644.25}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='河北', major='机械类（航宇智能制造试验班）', minScore=640, maxScore=644, averageScore=641.14}
+展示的专业为： 航空航天类
+Score{time=2023, province='河北', major='航空航天类', minScore=647, maxScore=653, averageScore=649.33}
+展示的专业为： 自动化类
+Score{time=2023, province='河北', major='自动化类', minScore=642, maxScore=649, averageScore=643.4}
+展示的专业为： 生态学（生态文明交叉试验班）
+Score{time=2023, province='河北', major='生态学（生态文明交叉试验班）', minScore=626, maxScore=629, averageScore=627.5}
+展示的专业为： 数学类
+Score{time=2023, province='河北', major='数学类', minScore=639, maxScore=646, averageScore=641.38}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='河北', major='航空航天类（智慧三航本研衔接班）', minScore=654, maxScore=655, averageScore=654.62}
+展示的专业为： 航空航天类（民用航空）
+Score{time=2023, province='河北', major='航空航天类（民用航空）', minScore=643, maxScore=647, averageScore=645.0}
+展示的专业为： 工程力学（力学拔尖基地班）
+Score{time=2023, province='河北', major='工程力学（力学拔尖基地班）', minScore=641, maxScore=644, averageScore=642.5}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='河北', major='海洋工程类（智慧海洋试验班）', minScore=635, maxScore=640, averageScore=636.8}
+展示的专业为： 生物技术（生命科学试验班）
+Score{time=2023, province='河北', major='生物技术（生命科学试验班）', minScore=631, maxScore=632, averageScore=631.75}
+展示的专业为： 电子信息类
+Score{time=2023, province='河北', major='电子信息类', minScore=646, maxScore=649, averageScore=646.91}
+展示的专业为： 力学类（工程应用力学试验班）
+Score{time=2023, province='河北', major='力学类（工程应用力学试验班）', minScore=633, maxScore=638, averageScore=635.0}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='河北', major='材料类（新材料与化工试验班）', minScore=633, maxScore=640, averageScore=636.14}
+展示的专业为： 物理学类
+Score{time=2023, province='河北', major='物理学类', minScore=637, maxScore=640, averageScore=638.25}
+展示的专业为： 电子信息类（集成电路）
+Score{time=2023, province='河北', major='电子信息类（集成电路）', minScore=644, maxScore=648, averageScore=644.9}
+展示的专业为： 航空航天类（陈士橹飞天班）
+Score{time=2023, province='河北', major='航空航天类（陈士橹飞天班）', minScore=656, maxScore=658, averageScore=657.0}
+展示的专业为： 航空航天类（黄玉珊航空班）
+Score{time=2023, province='河北', major='航空航天类（黄玉珊航空班）', minScore=661, maxScore=664, averageScore=662.5}
+展示的专业为： 海洋工程类（黄震中海洋班）
+Score{time=2023, province='河北', major='海洋工程类（黄震中海洋班）', minScore=642, maxScore=646, averageScore=644.0}
+展示的省份为：河南
+展示的专业为： 计算机类
+Score{time=2023, province='河南', major='计算机类', minScore=653, maxScore=657, averageScore=654.6}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='河南', major='能源动力类（航空动力与新能源试验班）', minScore=645, maxScore=650, averageScore=646.58}
+展示的专业为： 软件工程
+Score{time=2023, province='河南', major='软件工程', minScore=647, maxScore=651, averageScore=648.75}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='河南', major='机械类（航宇智能制造试验班）', minScore=644, maxScore=653, averageScore=647.23}
+展示的专业为： 生态学（生态文明交叉试验班）
+Score{time=2023, province='河南', major='生态学（生态文明交叉试验班）', minScore=644, maxScore=644, averageScore=644.0}
+展示的专业为： 数学类
+Score{time=2023, province='河南', major='数学类', minScore=644, maxScore=649, averageScore=645.62}
+展示的专业为： 工程力学（力学拔尖基地班）
+Score{time=2023, province='河南', major='工程力学（力学拔尖基地班）', minScore=650, maxScore=655, averageScore=652.5}
+展示的专业为： 生物技术（生命科学试验班）
+Score{time=2023, province='河南', major='生物技术（生命科学试验班）', minScore=644, maxScore=645, averageScore=644.2}
+展示的专业为： 电子信息类
+Score{time=2023, province='河南', major='电子信息类', minScore=649, maxScore=656, averageScore=650.56}
+展示的专业为： 力学类（工程应用力学试验班）
+Score{time=2023, province='河南', major='力学类（工程应用力学试验班）', minScore=644, maxScore=645, averageScore=644.5}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='河南', major='材料类（新材料与化工试验班）', minScore=644, maxScore=657, averageScore=646.48}
+展示的专业为： 物理学类
+Score{time=2023, province='河南', major='物理学类', minScore=644, maxScore=647, averageScore=645.57}
+展示的专业为： 电子信息类（集成电路）
+Score{time=2023, province='河南', major='电子信息类（集成电路）', minScore=646, maxScore=654, averageScore=648.4}
+展示的专业为： 建筑学
+Score{time=2023, province='河南', major='建筑学', minScore=644, maxScore=644, averageScore=644.0}
+展示的专业为： 航空航天类（黄玉珊航空班）
+Score{time=2023, province='河南', major='航空航天类（黄玉珊航空班）', minScore=660, maxScore=662, averageScore=661.0}
+展示的专业为： 计算机科学与技术（计算机科学拔尖基地班）
+Score{time=2023, province='河南', major='计算机科学与技术（计算机科学拔尖基地班）', minScore=657, maxScore=659, averageScore=658.0}
+展示的专业为： 柔性电子学（本研衔接班）
+Score{time=2023, province='河南', major='柔性电子学（本研衔接班）', minScore=648, maxScore=650, averageScore=649.4}
+展示的专业为： 计算机类（网络安全）
+Score{time=2023, province='河南', major='计算机类（网络安全）', minScore=650, maxScore=652, averageScore=651.2}
+展示的专业为： 工商管理类（管理试验班）
+Score{time=2023, province='河南', major='工商管理类（管理试验班）', minScore=644, maxScore=644, averageScore=644.0}
+展示的专业为： 航空航天类
+Score{time=2023, province='河南', major='航空航天类', minScore=651, maxScore=658, averageScore=653.0}
+展示的专业为： 自动化类
+Score{time=2023, province='河南', major='自动化类', minScore=646, maxScore=651, averageScore=647.81}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='河南', major='航空航天类（智慧三航本研衔接班）', minScore=658, maxScore=661, averageScore=658.86}
+展示的专业为： 航空航天类（民用航空）
+Score{time=2023, province='河南', major='航空航天类（民用航空）', minScore=645, maxScore=650, averageScore=646.91}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='河南', major='海洋工程类（智慧海洋试验班）', minScore=644, maxScore=651, averageScore=645.57}
+展示的专业为： 航空航天类（陈士橹飞天班）
+Score{time=2023, province='河南', major='航空航天类（陈士橹飞天班）', minScore=659, maxScore=660, averageScore=659.5}
+展示的专业为： 管理科学与工程类（管理试验班）
+Score{time=2023, province='河南', major='管理科学与工程类（管理试验班）', minScore=644, maxScore=644, averageScore=644.0}
+展示的专业为： 海洋工程类（黄震中海洋班）
+Score{time=2023, province='河南', major='海洋工程类（黄震中海洋班）', minScore=646, maxScore=652, averageScore=648.0}
+展示的省份为：重庆
+展示的专业为： 计算机类
+Score{time=2023, province='重庆', major='计算机类', minScore=640, maxScore=646, averageScore=641.8}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='重庆', major='能源动力类（航空动力与新能源试验班）', minScore=633, maxScore=636, averageScore=633.75}
+展示的专业为： 软件工程
+Score{time=2023, province='重庆', major='软件工程', minScore=633, maxScore=637, averageScore=635.25}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='重庆', major='机械类（航宇智能制造试验班）', minScore=637, maxScore=638, averageScore=637.67}
+展示的专业为： 航空航天类
+Score{time=2023, province='重庆', major='航空航天类', minScore=639, maxScore=645, averageScore=641.25}
+展示的专业为： 自动化类
+Score{time=2023, province='重庆', major='自动化类', minScore=636, maxScore=637, averageScore=636.2}
+展示的专业为： 数学类
+Score{time=2023, province='重庆', major='数学类', minScore=628, maxScore=628, averageScore=628.0}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='重庆', major='航空航天类（智慧三航本研衔接班）', minScore=649, maxScore=650, averageScore=649.75}
+展示的专业为： 航空航天类（民用航空）
+Score{time=2023, province='重庆', major='航空航天类（民用航空）', minScore=637, maxScore=638, averageScore=637.5}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='重庆', major='海洋工程类（智慧海洋试验班）', minScore=627, maxScore=633, averageScore=629.5}
+展示的专业为： 电子信息类
+Score{time=2023, province='重庆', major='电子信息类', minScore=637, maxScore=638, averageScore=637.5}
+展示的专业为： 力学类（工程应用力学试验班）
+Score{time=2023, province='重庆', major='力学类（工程应用力学试验班）', minScore=624, maxScore=628, averageScore=625.33}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='重庆', major='材料类（新材料与化工试验班）', minScore=627, maxScore=631, averageScore=628.5}
+展示的专业为： 物理学类
+Score{time=2023, province='重庆', major='物理学类', minScore=630, maxScore=636, averageScore=632.33}
+展示的专业为： 电子信息类（集成电路）
+Score{time=2023, province='重庆', major='电子信息类（集成电路）', minScore=638, maxScore=639, averageScore=638.5}
+展示的专业为： 航空航天类（黄玉珊航空班）
+Score{time=2023, province='重庆', major='航空航天类（黄玉珊航空班）', minScore=655, maxScore=660, averageScore=657.5}
+展示的专业为： 海洋工程类（黄震中海洋班）
+Score{time=2023, province='重庆', major='海洋工程类（黄震中海洋班）', minScore=643, maxScore=645, averageScore=644.0}
+展示的省份为：湖北
+展示的专业为： 计算机类
+Score{time=2023, province='湖北', major='计算机类', minScore=646, maxScore=648, averageScore=646.86}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='湖北', major='能源动力类（航空动力与新能源试验班）', minScore=644, maxScore=644, averageScore=644.0}
+展示的专业为： 软件工程
+Score{time=2023, province='湖北', major='软件工程', minScore=644, maxScore=645, averageScore=644.29}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='湖北', major='机械类（航宇智能制造试验班）', minScore=643, maxScore=644, averageScore=643.55}
+展示的专业为： 生态学（生态文明交叉试验班）
+Score{time=2023, province='湖北', major='生态学（生态文明交叉试验班）', minScore=637, maxScore=637, averageScore=637.0}
+展示的专业为： 数学类
+Score{time=2023, province='湖北', major='数学类', minScore=643, maxScore=644, averageScore=643.75}
+展示的专业为： 工程力学（力学拔尖基地班）
+Score{time=2023, province='湖北', major='工程力学（力学拔尖基地班）', minScore=644, maxScore=645, averageScore=644.5}
+展示的专业为： 生物技术（生命科学试验班）
+Score{time=2023, province='湖北', major='生物技术（生命科学试验班）', minScore=638, maxScore=642, averageScore=639.8}
+展示的专业为： 电子信息类
+Score{time=2023, province='湖北', major='电子信息类', minScore=645, maxScore=648, averageScore=645.6}
+展示的专业为： 力学类（工程应用力学试验班）
+Score{time=2023, province='湖北', major='力学类（工程应用力学试验班）', minScore=643, maxScore=643, averageScore=643.0}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='湖北', major='材料类（新材料与化工试验班）', minScore=643, maxScore=646, averageScore=643.9}
+展示的专业为： 物理学类
+Score{time=2023, province='湖北', major='物理学类', minScore=643, maxScore=645, averageScore=643.88}
+展示的专业为： 电子信息类（集成电路）
+Score{time=2023, province='湖北', major='电子信息类（集成电路）', minScore=644, maxScore=648, averageScore=646.0}
+展示的专业为： 建筑学
+Score{time=2023, province='湖北', major='建筑学', minScore=643, maxScore=643, averageScore=643.0}
+展示的专业为： 航空航天类（黄玉珊航空班）
+Score{time=2023, province='湖北', major='航空航天类（黄玉珊航空班）', minScore=662, maxScore=662, averageScore=662.0}
+展示的专业为： 柔性电子学（本研衔接班）
+Score{time=2023, province='湖北', major='柔性电子学（本研衔接班）', minScore=644, maxScore=645, averageScore=644.5}
+展示的专业为： 计算机类（网络安全）
+Score{time=2023, province='湖北', major='计算机类（网络安全）', minScore=646, maxScore=651, averageScore=647.25}
+展示的专业为： 工商管理类（管理试验班）
+Score{time=2023, province='湖北', major='工商管理类（管理试验班）', minScore=643, maxScore=643, averageScore=643.0}
+展示的专业为： 航空航天类
+Score{time=2023, province='湖北', major='航空航天类', minScore=646, maxScore=650, averageScore=647.6}
+展示的专业为： 自动化类
+Score{time=2023, province='湖北', major='自动化类', minScore=644, maxScore=648, averageScore=645.43}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='湖北', major='航空航天类（智慧三航本研衔接班）', minScore=651, maxScore=655, averageScore=652.0}
+展示的专业为： 航空航天类（民用航空）
+Score{time=2023, province='湖北', major='航空航天类（民用航空）', minScore=645, maxScore=646, averageScore=645.5}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='湖北', major='海洋工程类（智慧海洋试验班）', minScore=643, maxScore=646, averageScore=644.14}
+展示的专业为： 管理科学与工程类（管理试验班）
+Score{time=2023, province='湖北', major='管理科学与工程类（管理试验班）', minScore=643, maxScore=643, averageScore=643.0}
+展示的专业为： 海洋工程类（黄震中海洋班）
+Score{time=2023, province='湖北', major='海洋工程类（黄震中海洋班）', minScore=647, maxScore=657, averageScore=652.0}
+展示的省份为：湖南
+展示的专业为： 计算机科学与技术（计算机科学拔尖基地班）
+Score{time=2023, province='湖南', major='计算机科学与技术（计算机科学拔尖基地班）', minScore=656, maxScore=656, averageScore=656.0}
+展示的专业为： 计算机类
+Score{time=2023, province='湖南', major='计算机类', minScore=643, maxScore=645, averageScore=643.5}
+展示的专业为： 柔性电子学（本研衔接班）
+Score{time=2023, province='湖南', major='柔性电子学（本研衔接班）', minScore=644, maxScore=646, averageScore=645.0}
+展示的专业为： 计算机类（网络安全）
+Score{time=2023, province='湖南', major='计算机类（网络安全）', minScore=642, maxScore=645, averageScore=642.75}
+展示的专业为： 工商管理类（管理试验班）
+Score{time=2023, province='湖南', major='工商管理类（管理试验班）', minScore=639, maxScore=639, averageScore=639.0}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='湖南', major='能源动力类（航空动力与新能源试验班）', minScore=641, maxScore=643, averageScore=642.0}
+展示的专业为： 软件工程
+Score{time=2023, province='湖南', major='软件工程', minScore=640, maxScore=642, averageScore=641.4}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='湖南', major='机械类（航宇智能制造试验班）', minScore=639, maxScore=642, averageScore=639.88}
+展示的专业为： 航空航天类
+Score{time=2023, province='湖南', major='航空航天类', minScore=643, maxScore=647, averageScore=644.1}
+展示的专业为： 自动化类
+Score{time=2023, province='湖南', major='自动化类', minScore=640, maxScore=643, averageScore=641.11}
+展示的专业为： 生态学（生态文明交叉试验班）
+Score{time=2023, province='湖南', major='生态学（生态文明交叉试验班）', minScore=633, maxScore=636, averageScore=634.33}
+展示的专业为： 数学类
+Score{time=2023, province='湖南', major='数学类', minScore=639, maxScore=645, averageScore=641.25}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='湖南', major='航空航天类（智慧三航本研衔接班）', minScore=647, maxScore=649, averageScore=648.0}
+展示的专业为： 工程力学（力学拔尖基地班）
+Score{time=2023, province='湖南', major='工程力学（力学拔尖基地班）', minScore=645, maxScore=646, averageScore=645.5}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='湖南', major='海洋工程类（智慧海洋试验班）', minScore=639, maxScore=642, averageScore=640.25}
+展示的专业为： 生物技术（生命科学试验班）
+Score{time=2023, province='湖南', major='生物技术（生命科学试验班）', minScore=636, maxScore=636, averageScore=636.0}
+展示的专业为： 电子信息类
+Score{time=2023, province='湖南', major='电子信息类', minScore=642, maxScore=644, averageScore=643.12}
+展示的专业为： 力学类（工程应用力学试验班）
+Score{time=2023, province='湖南', major='力学类（工程应用力学试验班）', minScore=639, maxScore=639, averageScore=639.0}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='湖南', major='材料类（新材料与化工试验班）', minScore=639, maxScore=642, averageScore=639.6}
+展示的专业为： 物理学类
+Score{time=2023, province='湖南', major='物理学类', minScore=638, maxScore=641, averageScore=639.2}
+展示的专业为： 航空航天类（陈士橹飞天班）
+Score{time=2023, province='湖南', major='航空航天类（陈士橹飞天班）', minScore=648, maxScore=649, averageScore=648.5}
+展示的专业为： 建筑学
+Score{time=2023, province='湖南', major='建筑学', minScore=639, maxScore=639, averageScore=639.0}
+展示的专业为： 管理科学与工程类（管理试验班）
+Score{time=2023, province='湖南', major='管理科学与工程类（管理试验班）', minScore=639, maxScore=639, averageScore=639.0}
+展示的专业为： 海洋工程类（黄震中海洋班）
+Score{time=2023, province='湖南', major='海洋工程类（黄震中海洋班）', minScore=642, maxScore=643, averageScore=642.5}
+展示的省份为：江西
+展示的专业为： 计算机类
+Score{time=2023, province='江西', major='计算机类', minScore=639, maxScore=640, averageScore=639.5}
+展示的专业为： 计算机类（网络安全）
+Score{time=2023, province='江西', major='计算机类（网络安全）', minScore=640, maxScore=640, averageScore=640.0}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='江西', major='能源动力类（航空动力与新能源试验班）', minScore=634, maxScore=635, averageScore=634.33}
+展示的专业为： 软件工程
+Score{time=2023, province='江西', major='软件工程', minScore=637, maxScore=638, averageScore=637.5}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='江西', major='机械类（航宇智能制造试验班）', minScore=636, maxScore=639, averageScore=636.62}
+展示的专业为： 航空航天类
+Score{time=2023, province='江西', major='航空航天类', minScore=637, maxScore=639, averageScore=638.33}
+展示的专业为： 自动化类
+Score{time=2023, province='江西', major='自动化类', minScore=636, maxScore=639, averageScore=636.6}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='江西', major='航空航天类（智慧三航本研衔接班）', minScore=642, maxScore=644, averageScore=643.0}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='江西', major='海洋工程类（智慧海洋试验班）', minScore=634, maxScore=636, averageScore=634.83}
+展示的专业为： 生物技术（生命科学试验班）
+Score{time=2023, province='江西', major='生物技术（生命科学试验班）', minScore=634, maxScore=635, averageScore=634.67}
+展示的专业为： 电子信息类
+Score{time=2023, province='江西', major='电子信息类', minScore=636, maxScore=639, averageScore=637.17}
+展示的专业为： 力学类（工程应用力学试验班）
+Score{time=2023, province='江西', major='力学类（工程应用力学试验班）', minScore=635, maxScore=635, averageScore=635.0}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='江西', major='材料类（新材料与化工试验班）', minScore=634, maxScore=636, averageScore=634.88}
+展示的专业为： 航空航天类（黄玉珊航空班）
+Score{time=2023, province='江西', major='航空航天类（黄玉珊航空班）', minScore=640, maxScore=640, averageScore=640.0}
+展示的省份为：海南
+展示的专业为： 外国语言文学类
+Score{time=2023, province='海南', major='外国语言文学类', minScore=682, maxScore=687, averageScore=684.5}
+展示的专业为： 工商管理类（管理试验班）
+Score{time=2023, province='海南', major='工商管理类（管理试验班）', minScore=679, maxScore=681, averageScore=680.0}
+展示的省份为：黑龙江
+展示的专业为： 计算机类
+Score{time=2023, province='黑龙江', major='计算机类', minScore=620, maxScore=621, averageScore=620.5}
+展示的专业为： 工商管理类（管理试验班）
+Score{time=2023, province='黑龙江', major='工商管理类（管理试验班）', minScore=617, maxScore=617, averageScore=617.0}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='黑龙江', major='能源动力类（航空动力与新能源试验班）', minScore=618, maxScore=618, averageScore=618.0}
+展示的专业为： 软件工程
+Score{time=2023, province='黑龙江', major='软件工程', minScore=619, maxScore=620, averageScore=619.2}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='黑龙江', major='机械类（航宇智能制造试验班）', minScore=618, maxScore=619, averageScore=618.5}
+展示的专业为： 航空航天类
+Score{time=2023, province='黑龙江', major='航空航天类', minScore=621, maxScore=622, averageScore=621.75}
+展示的专业为： 自动化类
+Score{time=2023, province='黑龙江', major='自动化类', minScore=620, maxScore=621, averageScore=620.67}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='黑龙江', major='航空航天类（智慧三航本研衔接班）', minScore=622, maxScore=627, averageScore=624.5}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='黑龙江', major='海洋工程类（智慧海洋试验班）', minScore=617, maxScore=619, averageScore=617.6}
+展示的专业为： 电子信息类
+Score{time=2023, province='黑龙江', major='电子信息类', minScore=619, maxScore=619, averageScore=619.0}
+展示的专业为： 力学类（工程应用力学试验班）
+Score{time=2023, province='黑龙江', major='力学类（工程应用力学试验班）', minScore=617, maxScore=618, averageScore=617.5}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='黑龙江', major='材料类（新材料与化工试验班）', minScore=618, maxScore=634, averageScore=623.67}
+展示的专业为： 建筑学
+Score{time=2023, province='黑龙江', major='建筑学', minScore=617, maxScore=618, averageScore=617.5}
+展示的专业为： 航空航天类（黄玉珊航空班）
+Score{time=2023, province='黑龙江', major='航空航天类（黄玉珊航空班）', minScore=634, maxScore=634, averageScore=634.0}
+展示的省份为：天津
+展示的专业为： 电子信息类
+Score{time=2023, province='天津', major='电子信息类', minScore=673, maxScore=674, averageScore=673.5}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='天津', major='材料类（新材料与化工试验班）', minScore=666, maxScore=669, averageScore=666.8}
+展示的专业为： 计算机类
+Score{time=2023, province='天津', major='计算机类', minScore=671, maxScore=677, averageScore=673.75}
+展示的专业为： 计算机类（网络安全）
+Score{time=2023, province='天津', major='计算机类（网络安全）', minScore=667, maxScore=679, averageScore=671.0}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='天津', major='能源动力类（航空动力与新能源试验班）', minScore=671, maxScore=675, averageScore=673.0}
+展示的专业为： 软件工程
+Score{time=2023, province='天津', major='软件工程', minScore=668, maxScore=669, averageScore=668.5}
+展示的专业为： 航空航天类（陈士橹飞天班）
+Score{time=2023, province='天津', major='航空航天类（陈士橹飞天班）', minScore=680, maxScore=684, averageScore=681.0}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='天津', major='机械类（航宇智能制造试验班）', minScore=667, maxScore=669, averageScore=668.0}
+展示的专业为： 航空航天类
+Score{time=2023, province='天津', major='航空航天类', minScore=676, maxScore=678, averageScore=677.0}
+展示的专业为： 自动化类
+Score{time=2023, province='天津', major='自动化类', minScore=668, maxScore=671, averageScore=669.0}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='天津', major='航空航天类（智慧三航本研衔接班）', minScore=679, maxScore=679, averageScore=679.0}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='天津', major='海洋工程类（智慧海洋试验班）', minScore=666, maxScore=667, averageScore=666.33}
+展示的省份为：贵州
+展示的专业为： 计算机科学与技术（计算机科学拔尖基地班）
+Score{time=2023, province='贵州', major='计算机科学与技术（计算机科学拔尖基地班）', minScore=645, maxScore=645, averageScore=645.0}
+展示的专业为： 计算机类
+Score{time=2023, province='贵州', major='计算机类', minScore=632, maxScore=634, averageScore=633.0}
+展示的专业为： 计算机类（网络安全）
+Score{time=2023, province='贵州', major='计算机类（网络安全）', minScore=631, maxScore=632, averageScore=631.33}
+展示的专业为： 工商管理类（管理试验班）
+Score{time=2023, province='贵州', major='工商管理类（管理试验班）', minScore=624, maxScore=624, averageScore=624.0}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='贵州', major='能源动力类（航空动力与新能源试验班）', minScore=627, maxScore=628, averageScore=627.5}
+展示的专业为： 航空航天类
+Score{time=2023, province='贵州', major='航空航天类', minScore=629, maxScore=631, averageScore=629.5}
+展示的专业为： 自动化类
+Score{time=2023, province='贵州', major='自动化类', minScore=628, maxScore=630, averageScore=629.0}
+展示的专业为： 生态学（生态文明交叉试验班）
+Score{time=2023, province='贵州', major='生态学（生态文明交叉试验班）', minScore=625, maxScore=626, averageScore=625.5}
+展示的专业为： 数学类
+Score{time=2023, province='贵州', major='数学类', minScore=624, maxScore=628, averageScore=626.25}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='贵州', major='航空航天类（智慧三航本研衔接班）', minScore=633, maxScore=633, averageScore=633.0}
+展示的专业为： 生物技术（生命科学试验班）
+Score{time=2023, province='贵州', major='生物技术（生命科学试验班）', minScore=625, maxScore=627, averageScore=625.67}
+展示的专业为： 电子信息类
+Score{time=2023, province='贵州', major='电子信息类', minScore=631, maxScore=637, averageScore=633.33}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='贵州', major='材料类（新材料与化工试验班）', minScore=624, maxScore=627, averageScore=625.25}
+展示的专业为： 物理学类
+Score{time=2023, province='贵州', major='物理学类', minScore=624, maxScore=630, averageScore=627.33}
+展示的省份为：陕西
+展示的专业为： 计算机类
+Score{time=2023, province='陕西', major='计算机类', minScore=632, maxScore=647, averageScore=636.07}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='陕西', major='能源动力类（航空动力与新能源试验班）', minScore=619, maxScore=627, averageScore=621.13}
+展示的专业为： 软件工程
+Score{time=2023, province='陕西', major='软件工程', minScore=619, maxScore=639, averageScore=622.1}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='陕西', major='机械类（航宇智能制造试验班）', minScore=618, maxScore=627, averageScore=619.44}
+展示的专业为： 生态学（生态文明交叉试验班）
+Score{time=2023, province='陕西', major='生态学（生态文明交叉试验班）', minScore=615, maxScore=616, averageScore=615.5}
+展示的专业为： 数学类
+Score{time=2023, province='陕西', major='数学类', minScore=619, maxScore=641, averageScore=622.75}
+展示的专业为： 工程力学（力学拔尖基地班）
+Score{time=2023, province='陕西', major='工程力学（力学拔尖基地班）', minScore=622, maxScore=630, averageScore=624.5}
+展示的专业为： 生物技术（生命科学试验班）
+Score{time=2023, province='陕西', major='生物技术（生命科学试验班）', minScore=615, maxScore=621, averageScore=616.5}
+展示的专业为： 电子信息类
+Score{time=2023, province='陕西', major='电子信息类', minScore=623, maxScore=634, averageScore=625.58}
+展示的专业为： 力学类（工程应用力学试验班）
+Score{time=2023, province='陕西', major='力学类（工程应用力学试验班）', minScore=615, maxScore=618, averageScore=616.76}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='陕西', major='材料类（新材料与化工试验班）', minScore=615, maxScore=631, averageScore=618.58}
+展示的专业为： 物理学类
+Score{time=2023, province='陕西', major='物理学类', minScore=616, maxScore=624, averageScore=618.04}
+展示的专业为： 电子信息类（集成电路）
+Score{time=2023, province='陕西', major='电子信息类（集成电路）', minScore=622, maxScore=639, averageScore=626.24}
+展示的专业为： 建筑学
+Score{time=2023, province='陕西', major='建筑学', minScore=615, maxScore=617, averageScore=616.0}
+展示的专业为： 航空航天类（黄玉珊航空班）
+Score{time=2023, province='陕西', major='航空航天类（黄玉珊航空班）', minScore=656, maxScore=658, averageScore=657.0}
+展示的专业为： 计算机科学与技术（计算机科学拔尖基地班）
+Score{time=2023, province='陕西', major='计算机科学与技术（计算机科学拔尖基地班）', minScore=653, maxScore=658, averageScore=655.5}
+展示的专业为： 柔性电子学（本研衔接班）
+Score{time=2023, province='陕西', major='柔性电子学（本研衔接班）', minScore=635, maxScore=641, averageScore=638.0}
+展示的专业为： 计算机类（网络安全）
+Score{time=2023, province='陕西', major='计算机类（网络安全）', minScore=628, maxScore=632, averageScore=629.62}
+展示的专业为： 工商管理类（管理试验班）
+Score{time=2023, province='陕西', major='工商管理类（管理试验班）', minScore=615, maxScore=615, averageScore=615.0}
+展示的专业为： 航空航天类
+Score{time=2023, province='陕西', major='航空航天类', minScore=627, maxScore=643, averageScore=630.99}
+展示的专业为： 自动化类
+Score{time=2023, province='陕西', major='自动化类', minScore=622, maxScore=632, averageScore=625.2}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='陕西', major='航空航天类（智慧三航本研衔接班）', minScore=643, maxScore=656, averageScore=648.8}
+展示的专业为： 航空航天类（民用航空）
+Score{time=2023, province='陕西', major='航空航天类（民用航空）', minScore=624, maxScore=627, averageScore=625.12}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='陕西', major='海洋工程类（智慧海洋试验班）', minScore=615, maxScore=631, averageScore=618.33}
+展示的专业为： 航空航天类（陈士橹飞天班）
+Score{time=2023, province='陕西', major='航空航天类（陈士橹飞天班）', minScore=658, maxScore=662, averageScore=660.0}
+展示的专业为： 管理科学与工程类（管理试验班）
+Score{time=2023, province='陕西', major='管理科学与工程类（管理试验班）', minScore=615, maxScore=617, averageScore=615.75}
+展示的专业为： 海洋工程类（黄震中海洋班）
+Score{time=2023, province='陕西', major='海洋工程类（黄震中海洋班）', minScore=631, maxScore=634, averageScore=632.25}
+展示的省份为：新疆
+展示的专业为： 计算机科学与技术（计算机科学拔尖基地班）
+Score{time=2023, province='新疆', major='计算机科学与技术（计算机科学拔尖基地班）', minScore=604, maxScore=604, averageScore=604.0}
+展示的专业为： 电子信息类
+Score{time=2023, province='新疆', major='电子信息类', minScore=593, maxScore=597, averageScore=595.0}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='新疆', major='材料类（新材料与化工试验班）', minScore=592, maxScore=593, averageScore=592.67}
+展示的专业为： 计算机类
+Score{time=2023, province='新疆', major='计算机类', minScore=598, maxScore=600, averageScore=599.0}
+展示的专业为： 计算机类（网络安全）
+Score{time=2023, province='新疆', major='计算机类（网络安全）', minScore=596, maxScore=598, averageScore=596.67}
+展示的专业为： 工商管理类（管理试验班）
+Score{time=2023, province='新疆', major='工商管理类（管理试验班）', minScore=592, maxScore=592, averageScore=592.0}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='新疆', major='能源动力类（航空动力与新能源试验班）', minScore=593, maxScore=593, averageScore=593.0}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='新疆', major='机械类（航宇智能制造试验班）', minScore=592, maxScore=593, averageScore=592.33}
+展示的专业为： 航空航天类
+Score{time=2023, province='新疆', major='航空航天类', minScore=594, maxScore=597, averageScore=595.25}
+展示的专业为： 管理科学与工程类（管理试验班）
+Score{time=2023, province='新疆', major='管理科学与工程类（管理试验班）', minScore=592, maxScore=593, averageScore=592.67}
+展示的专业为： 数学类
+Score{time=2023, province='新疆', major='数学类', minScore=592, maxScore=593, averageScore=592.33}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='新疆', major='航空航天类（智慧三航本研衔接班）', minScore=603, maxScore=618, averageScore=610.5}
+展示的省份为：江苏
+展示的专业为： 计算机类
+Score{time=2023, province='江苏', major='计算机类', minScore=655, maxScore=656, averageScore=655.5}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='江苏', major='能源动力类（航空动力与新能源试验班）', minScore=651, maxScore=653, averageScore=651.5}
+展示的专业为： 软件工程
+Score{time=2023, province='江苏', major='软件工程', minScore=653, maxScore=655, averageScore=653.25}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='江苏', major='机械类（航宇智能制造试验班）', minScore=651, maxScore=656, averageScore=652.7}
+展示的专业为： 生态学（生态文明交叉试验班）
+Score{time=2023, province='江苏', major='生态学（生态文明交叉试验班）', minScore=650, maxScore=650, averageScore=650.0}
+展示的专业为： 数学类
+Score{time=2023, province='江苏', major='数学类', minScore=652, maxScore=655, averageScore=652.83}
+展示的专业为： 工程力学（力学拔尖基地班）
+Score{time=2023, province='江苏', major='工程力学（力学拔尖基地班）', minScore=655, maxScore=656, averageScore=655.5}
+展示的专业为： 生物技术（生命科学试验班）
+Score{time=2023, province='江苏', major='生物技术（生命科学试验班）', minScore=648, maxScore=650, averageScore=648.83}
+展示的专业为： 电子信息类
+Score{time=2023, province='江苏', major='电子信息类', minScore=655, maxScore=656, averageScore=655.12}
+展示的专业为： 力学类（工程应用力学试验班）
+Score{time=2023, province='江苏', major='力学类（工程应用力学试验班）', minScore=651, maxScore=654, averageScore=652.5}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='江苏', major='材料类（新材料与化工试验班）', minScore=651, maxScore=654, averageScore=651.93}
+展示的专业为： 物理学类
+Score{time=2023, province='江苏', major='物理学类', minScore=651, maxScore=655, averageScore=651.88}
+展示的专业为： 电子信息类（集成电路）
+Score{time=2023, province='江苏', major='电子信息类（集成电路）', minScore=652, maxScore=654, averageScore=652.92}
+展示的专业为： 建筑学
+Score{time=2023, province='江苏', major='建筑学', minScore=651, maxScore=651, averageScore=651.0}
+展示的专业为： 航空航天类（黄玉珊航空班）
+Score{time=2023, province='江苏', major='航空航天类（黄玉珊航空班）', minScore=656, maxScore=657, averageScore=656.5}
+展示的专业为： 计算机科学与技术（计算机科学拔尖基地班）
+Score{time=2023, province='江苏', major='计算机科学与技术（计算机科学拔尖基地班）', minScore=656, maxScore=656, averageScore=656.0}
+展示的专业为： 柔性电子学（本研衔接班）
+Score{time=2023, province='江苏', major='柔性电子学（本研衔接班）', minScore=655, maxScore=656, averageScore=655.67}
+展示的专业为： 计算机类（网络安全）
+Score{time=2023, province='江苏', major='计算机类（网络安全）', minScore=653, maxScore=655, averageScore=654.38}
+展示的专业为： 工商管理类（管理试验班）
+Score{time=2023, province='江苏', major='工商管理类（管理试验班）', minScore=650, maxScore=651, averageScore=650.25}
+展示的专业为： 航空航天类
+Score{time=2023, province='江苏', major='航空航天类', minScore=654, maxScore=655, averageScore=654.62}
+展示的专业为： 自动化类
+Score{time=2023, province='江苏', major='自动化类', minScore=653, maxScore=655, averageScore=653.81}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='江苏', major='航空航天类（智慧三航本研衔接班）', minScore=656, maxScore=665, averageScore=658.12}
+展示的专业为： 航空航天类（民用航空）
+Score{time=2023, province='江苏', major='航空航天类（民用航空）', minScore=651, maxScore=655, averageScore=652.2}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='江苏', major='海洋工程类（智慧海洋试验班）', minScore=650, maxScore=655, averageScore=651.71}
+展示的专业为： 航空航天类（陈士橹飞天班）
+Score{time=2023, province='江苏', major='航空航天类（陈士橹飞天班）', minScore=656, maxScore=660, averageScore=658.0}
+展示的专业为： 管理科学与工程类（管理试验班）
+Score{time=2023, province='江苏', major='管理科学与工程类（管理试验班）', minScore=651, maxScore=651, averageScore=651.0}
+展示的专业为： 海洋工程类（黄震中海洋班）
+Score{time=2023, province='江苏', major='海洋工程类（黄震中海洋班）', minScore=655, maxScore=656, averageScore=655.5}
+展示的省份为：安徽
+展示的专业为： 计算机类
+Score{time=2023, province='安徽', major='计算机类', minScore=649, maxScore=652, averageScore=650.33}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='安徽', major='能源动力类（航空动力与新能源试验班）', minScore=643, maxScore=647, averageScore=644.62}
+展示的专业为： 软件工程
+Score{time=2023, province='安徽', major='软件工程', minScore=646, maxScore=650, averageScore=647.5}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='安徽', major='机械类（航宇智能制造试验班）', minScore=644, maxScore=650, averageScore=645.33}
+展示的专业为： 生态学（生态文明交叉试验班）
+Score{time=2023, province='安徽', major='生态学（生态文明交叉试验班）', minScore=642, maxScore=643, averageScore=642.5}
+展示的专业为： 数学类
+Score{time=2023, province='安徽', major='数学类', minScore=644, maxScore=652, averageScore=646.5}
+展示的专业为： 工程力学（力学拔尖基地班）
+Score{time=2023, province='安徽', major='工程力学（力学拔尖基地班）', minScore=649, maxScore=649, averageScore=649.0}
+展示的专业为： 生物技术（生命科学试验班）
+Score{time=2023, province='安徽', major='生物技术（生命科学试验班）', minScore=642, maxScore=643, averageScore=642.75}
+展示的专业为： 电子信息类
+Score{time=2023, province='安徽', major='电子信息类', minScore=648, maxScore=650, averageScore=649.0}
+展示的专业为： 力学类（工程应用力学试验班）
+Score{time=2023, province='安徽', major='力学类（工程应用力学试验班）', minScore=642, maxScore=644, averageScore=642.75}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='安徽', major='材料类（新材料与化工试验班）', minScore=642, maxScore=655, averageScore=644.33}
+展示的专业为： 物理学类
+Score{time=2023, province='安徽', major='物理学类', minScore=643, maxScore=644, averageScore=643.22}
+展示的专业为： 电子信息类（集成电路）
+Score{time=2023, province='安徽', major='电子信息类（集成电路）', minScore=645, maxScore=654, averageScore=646.64}
+展示的专业为： 建筑学
+Score{time=2023, province='安徽', major='建筑学', minScore=642, maxScore=643, averageScore=642.67}
+展示的专业为： 航空航天类（黄玉珊航空班）
+Score{time=2023, province='安徽', major='航空航天类（黄玉珊航空班）', minScore=659, maxScore=661, averageScore=660.0}
+展示的专业为： 计算机科学与技术（计算机科学拔尖基地班）
+Score{time=2023, province='安徽', major='计算机科学与技术（计算机科学拔尖基地班）', minScore=653, maxScore=654, averageScore=653.5}
+展示的专业为： 柔性电子学（本研衔接班）
+Score{time=2023, province='安徽', major='柔性电子学（本研衔接班）', minScore=645, maxScore=649, averageScore=647.0}
+展示的专业为： 计算机类（网络安全）
+Score{time=2023, province='安徽', major='计算机类（网络安全）', minScore=646, maxScore=647, averageScore=646.71}
+展示的专业为： 工商管理类（管理试验班）
+Score{time=2023, province='安徽', major='工商管理类（管理试验班）', minScore=642, maxScore=643, averageScore=642.5}
+展示的专业为： 航空航天类
+Score{time=2023, province='安徽', major='航空航天类', minScore=648, maxScore=653, averageScore=649.92}
+展示的专业为： 自动化类
+Score{time=2023, province='安徽', major='自动化类', minScore=645, maxScore=650, averageScore=646.31}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='安徽', major='航空航天类（智慧三航本研衔接班）', minScore=652, maxScore=654, averageScore=652.86}
+展示的专业为： 航空航天类（民用航空）
+Score{time=2023, province='安徽', major='航空航天类（民用航空）', minScore=644, maxScore=648, averageScore=645.0}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='安徽', major='海洋工程类（智慧海洋试验班）', minScore=642, maxScore=651, averageScore=644.0}
+展示的专业为： 航空航天类（陈士橹飞天班）
+Score{time=2023, province='安徽', major='航空航天类（陈士橹飞天班）', minScore=655, maxScore=655, averageScore=655.0}
+展示的专业为： 海洋工程类（黄震中海洋班）
+Score{time=2023, province='安徽', major='海洋工程类（黄震中海洋班）', minScore=644, maxScore=646, averageScore=645.0}
+展示的省份为：西藏
+展示的专业为： 电子信息类
+Score{time=2023, province='西藏', major='电子信息类', minScore=624, maxScore=624, averageScore=624.0}
+展示的省份为：吉林
+展示的专业为： 计算机类
+Score{time=2023, province='吉林', major='计算机类', minScore=623, maxScore=623, averageScore=623.0}
+展示的专业为： 计算机类（网络安全）
+Score{time=2023, province='吉林', major='计算机类（网络安全）', minScore=621, maxScore=623, averageScore=622.0}
+展示的专业为： 工商管理类（管理试验班）
+Score{time=2023, province='吉林', major='工商管理类（管理试验班）', minScore=614, maxScore=614, averageScore=614.0}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='吉林', major='能源动力类（航空动力与新能源试验班）', minScore=619, maxScore=621, averageScore=620.0}
+展示的专业为： 软件工程
+Score{time=2023, province='吉林', major='软件工程', minScore=618, maxScore=620, averageScore=618.5}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='吉林', major='机械类（航宇智能制造试验班）', minScore=622, maxScore=623, averageScore=622.5}
+展示的专业为： 航空航天类
+Score{time=2023, province='吉林', major='航空航天类', minScore=623, maxScore=626, averageScore=624.33}
+展示的专业为： 自动化类
+Score{time=2023, province='吉林', major='自动化类', minScore=621, maxScore=623, averageScore=622.0}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='吉林', major='航空航天类（智慧三航本研衔接班）', minScore=626, maxScore=628, averageScore=627.0}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='吉林', major='海洋工程类（智慧海洋试验班）', minScore=616, maxScore=621, averageScore=618.0}
+展示的专业为： 电子信息类
+Score{time=2023, province='吉林', major='电子信息类', minScore=621, maxScore=622, averageScore=621.6}
+展示的专业为： 力学类（工程应用力学试验班）
+Score{time=2023, province='吉林', major='力学类（工程应用力学试验班）', minScore=616, maxScore=618, averageScore=617.33}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='吉林', major='材料类（新材料与化工试验班）', minScore=615, maxScore=621, averageScore=618.25}
+展示的专业为： 航空航天类（陈士橹飞天班）
+Score{time=2023, province='吉林', major='航空航天类（陈士橹飞天班）', minScore=632, maxScore=632, averageScore=632.0}
+展示的省份为：上海
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='上海', major='材料类（新材料与化工试验班）', minScore=501, maxScore=501, averageScore=500.72}
+展示的专业为： 计算机类（网络安全）
+Score{time=2023, province='上海', major='计算机类（网络安全）', minScore=503, maxScore=503, averageScore=503.36}
+展示的专业为： 电子信息类（集成电路）
+Score{time=2023, province='上海', major='电子信息类（集成电路）', minScore=502, maxScore=502, averageScore=501.6}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='上海', major='能源动力类（航空动力与新能源试验班）', minScore=499, maxScore=500, averageScore=499.4}
+展示的专业为： 航空航天类
+Score{time=2023, province='上海', major='航空航天类', minScore=501, maxScore=502, averageScore=501.16}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='上海', major='航空航天类（智慧三航本研衔接班）', minScore=504, maxScore=510, averageScore=506.29040000000003}
+展示的专业为： 航空航天类（黄玉珊航空班）
+Score{time=2023, province='上海', major='航空航天类（黄玉珊航空班）', minScore=506, maxScore=506, averageScore=506.0}
+展示的专业为： 海洋工程类（黄震中海洋班）
+Score{time=2023, province='上海', major='海洋工程类（黄震中海洋班）', minScore=502, maxScore=504, averageScore=503.36}
+展示的专业为： 航空航天类（民用航空）
+Score{time=2023, province='上海', major='航空航天类（民用航空）', minScore=501, maxScore=502, averageScore=501.16}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='上海', major='海洋工程类（智慧海洋试验班）', minScore=500, maxScore=500, averageScore=499.84}
+展示的省份为：山西
+展示的专业为： 计算机类
+Score{time=2023, province='山西', major='计算机类', minScore=632, maxScore=636, averageScore=633.33}
+展示的专业为： 柔性电子学（本研衔接班）
+Score{time=2023, province='山西', major='柔性电子学（本研衔接班）', minScore=626, maxScore=631, averageScore=628.5}
+展示的专业为： 计算机类（网络安全）
+Score{time=2023, province='山西', major='计算机类（网络安全）', minScore=630, maxScore=632, averageScore=630.75}
+展示的专业为： 工商管理类（管理试验班）
+Score{time=2023, province='山西', major='工商管理类（管理试验班）', minScore=623, maxScore=623, averageScore=623.0}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='山西', major='能源动力类（航空动力与新能源试验班）', minScore=625, maxScore=629, averageScore=627.0}
+展示的专业为： 软件工程
+Score{time=2023, province='山西', major='软件工程', minScore=626, maxScore=629, averageScore=627.1}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='山西', major='机械类（航宇智能制造试验班）', minScore=625, maxScore=627, averageScore=626.23}
+展示的专业为： 航空航天类
+Score{time=2023, province='山西', major='航空航天类', minScore=630, maxScore=636, averageScore=631.67}
+展示的专业为： 自动化类
+Score{time=2023, province='山西', major='自动化类', minScore=627, maxScore=629, averageScore=627.89}
+展示的专业为： 生态学（生态文明交叉试验班）
+Score{time=2023, province='山西', major='生态学（生态文明交叉试验班）', minScore=623, maxScore=623, averageScore=623.0}
+展示的专业为： 数学类
+Score{time=2023, province='山西', major='数学类', minScore=624, maxScore=625, averageScore=624.4}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='山西', major='航空航天类（智慧三航本研衔接班）', minScore=636, maxScore=640, averageScore=637.5}
+展示的专业为： 航空航天类（民用航空）
+Score{time=2023, province='山西', major='航空航天类（民用航空）', minScore=627, maxScore=633, averageScore=629.33}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='山西', major='海洋工程类（智慧海洋试验班）', minScore=624, maxScore=630, averageScore=625.62}
+展示的专业为： 电子信息类
+Score{time=2023, province='山西', major='电子信息类', minScore=628, maxScore=631, averageScore=628.67}
+展示的专业为： 力学类（工程应用力学试验班）
+Score{time=2023, province='山西', major='力学类（工程应用力学试验班）', minScore=623, maxScore=624, averageScore=623.5}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='山西', major='材料类（新材料与化工试验班）', minScore=623, maxScore=627, averageScore=624.31}
+展示的专业为： 物理学类
+Score{time=2023, province='山西', major='物理学类', minScore=623, maxScore=625, averageScore=624.17}
+展示的专业为： 航空航天类（陈士橹飞天班）
+Score{time=2023, province='山西', major='航空航天类（陈士橹飞天班）', minScore=636, maxScore=645, averageScore=640.5}
+展示的专业为： 管理科学与工程类（管理试验班）
+Score{time=2023, province='山西', major='管理科学与工程类（管理试验班）', minScore=623, maxScore=623, averageScore=623.0}
+展示的省份为：甘肃
+展示的专业为： 计算机类
+Score{time=2023, province='甘肃', major='计算机类', minScore=606, maxScore=610, averageScore=607.5}
+展示的专业为： 计算机类（网络安全）
+Score{time=2023, province='甘肃', major='计算机类（网络安全）', minScore=604, maxScore=607, averageScore=605.5}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='甘肃', major='能源动力类（航空动力与新能源试验班）', minScore=603, maxScore=604, averageScore=603.67}
+展示的专业为： 软件工程
+Score{time=2023, province='甘肃', major='软件工程', minScore=601, maxScore=606, averageScore=603.5}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='甘肃', major='机械类（航宇智能制造试验班）', minScore=605, maxScore=609, averageScore=606.5}
+展示的专业为： 航空航天类
+Score{time=2023, province='甘肃', major='航空航天类', minScore=608, maxScore=612, averageScore=609.89}
+展示的专业为： 自动化类
+Score{time=2023, province='甘肃', major='自动化类', minScore=607, maxScore=612, averageScore=609.2}
+展示的专业为： 数学类
+Score{time=2023, province='甘肃', major='数学类', minScore=600, maxScore=604, averageScore=601.33}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='甘肃', major='航空航天类（智慧三航本研衔接班）', minScore=612, maxScore=614, averageScore=613.0}
+展示的专业为： 生物技术（生命科学试验班）
+Score{time=2023, province='甘肃', major='生物技术（生命科学试验班）', minScore=599, maxScore=600, averageScore=599.75}
+展示的专业为： 电子信息类
+Score{time=2023, province='甘肃', major='电子信息类', minScore=604, maxScore=612, averageScore=606.67}
+展示的专业为： 力学类（工程应用力学试验班）
+Score{time=2023, province='甘肃', major='力学类（工程应用力学试验班）', minScore=602, maxScore=603, averageScore=602.5}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='甘肃', major='材料类（新材料与化工试验班）', minScore=601, maxScore=606, averageScore=603.33}
+展示的专业为： 物理学类
+Score{time=2023, province='甘肃', major='物理学类', minScore=600, maxScore=601, averageScore=600.75}
+展示的专业为： 航空航天类（陈士橹飞天班）
+Score{time=2023, province='甘肃', major='航空航天类（陈士橹飞天班）', minScore=613, maxScore=615, averageScore=614.0}
+展示的省份为：宁夏
+展示的专业为： 计算机类
+Score{time=2023, province='宁夏', major='计算机类', minScore=572, maxScore=575, averageScore=573.0}
+展示的专业为： 计算机类（网络安全）
+Score{time=2023, province='宁夏', major='计算机类（网络安全）', minScore=571, maxScore=573, averageScore=572.0}
+展示的专业为： 工商管理类（管理试验班）
+Score{time=2023, province='宁夏', major='工商管理类（管理试验班）', minScore=566, maxScore=567, averageScore=566.33}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='宁夏', major='能源动力类（航空动力与新能源试验班）', minScore=568, maxScore=574, averageScore=571.4}
+展示的专业为： 软件工程
+Score{time=2023, province='宁夏', major='软件工程', minScore=569, maxScore=570, averageScore=569.33}
+展示的专业为： 航空航天类
+Score{time=2023, province='宁夏', major='航空航天类', minScore=574, maxScore=581, averageScore=575.75}
+展示的专业为： 自动化类
+Score{time=2023, province='宁夏', major='自动化类', minScore=570, maxScore=570, averageScore=570.0}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='宁夏', major='航空航天类（智慧三航本研衔接班）', minScore=577, maxScore=582, averageScore=579.5}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='宁夏', major='海洋工程类（智慧海洋试验班）', minScore=566, maxScore=568, averageScore=567.33}
+展示的专业为： 电子信息类
+Score{time=2023, province='宁夏', major='电子信息类', minScore=571, maxScore=572, averageScore=571.33}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='宁夏', major='材料类（新材料与化工试验班）', minScore=566, maxScore=574, averageScore=569.33}
+展示的专业为： 管理科学与工程类（管理试验班）
+Score{time=2023, province='宁夏', major='管理科学与工程类（管理试验班）', minScore=567, maxScore=567, averageScore=567.0}
+展示的专业为： 航空航天类（黄玉珊航空班）
+Score{time=2023, province='宁夏', major='航空航天类（黄玉珊航空班）', minScore=577, maxScore=577, averageScore=577.0}
+展示的省份为：四川
+展示的专业为： 计算机类
+Score{time=2023, province='四川', major='计算机类', minScore=664, maxScore=666, averageScore=664.5}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='四川', major='能源动力类（航空动力与新能源试验班）', minScore=656, maxScore=664, averageScore=658.2}
+展示的专业为： 软件工程
+Score{time=2023, province='四川', major='软件工程', minScore=657, maxScore=665, averageScore=658.92}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='四川', major='机械类（航宇智能制造试验班）', minScore=657, maxScore=667, averageScore=659.55}
+展示的专业为： 生态学（生态文明交叉试验班）
+Score{time=2023, province='四川', major='生态学（生态文明交叉试验班）', minScore=656, maxScore=657, averageScore=656.5}
+展示的专业为： 数学类
+Score{time=2023, province='四川', major='数学类', minScore=656, maxScore=659, averageScore=657.67}
+展示的专业为： 工程力学（力学拔尖基地班）
+Score{time=2023, province='四川', major='工程力学（力学拔尖基地班）', minScore=665, maxScore=669, averageScore=667.0}
+展示的专业为： 生物技术（生命科学试验班）
+Score{time=2023, province='四川', major='生物技术（生命科学试验班）', minScore=657, maxScore=657, averageScore=657.0}
+展示的专业为： 电子信息类
+Score{time=2023, province='四川', major='电子信息类', minScore=660, maxScore=665, averageScore=662.38}
+展示的专业为： 力学类（工程应用力学试验班）
+Score{time=2023, province='四川', major='力学类（工程应用力学试验班）', minScore=656, maxScore=659, averageScore=657.33}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='四川', major='材料类（新材料与化工试验班）', minScore=657, maxScore=662, averageScore=658.7}
+展示的专业为： 物理学类
+Score{time=2023, province='四川', major='物理学类', minScore=656, maxScore=660, averageScore=657.67}
+展示的专业为： 电子信息类（集成电路）
+Score{time=2023, province='四川', major='电子信息类（集成电路）', minScore=658, maxScore=661, averageScore=659.2}
+展示的专业为： 建筑学
+Score{time=2023, province='四川', major='建筑学', minScore=656, maxScore=657, averageScore=656.33}
+展示的专业为： 航空航天类（黄玉珊航空班）
+Score{time=2023, province='四川', major='航空航天类（黄玉珊航空班）', minScore=672, maxScore=673, averageScore=672.5}
+展示的专业为： 计算机科学与技术（计算机科学拔尖基地班）
+Score{time=2023, province='四川', major='计算机科学与技术（计算机科学拔尖基地班）', minScore=666, maxScore=667, averageScore=666.5}
+展示的专业为： 柔性电子学（本研衔接班）
+Score{time=2023, province='四川', major='柔性电子学（本研衔接班）', minScore=663, maxScore=668, averageScore=665.25}
+展示的专业为： 计算机类（网络安全）
+Score{time=2023, province='四川', major='计算机类（网络安全）', minScore=659, maxScore=663, averageScore=660.83}
+展示的专业为： 航空航天类
+Score{time=2023, province='四川', major='航空航天类', minScore=663, maxScore=669, averageScore=664.58}
+展示的专业为： 自动化类
+Score{time=2023, province='四川', major='自动化类', minScore=659, maxScore=668, averageScore=661.3}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='四川', major='航空航天类（智慧三航本研衔接班）', minScore=669, maxScore=673, averageScore=670.5}
+展示的专业为： 航空航天类（民用航空）
+Score{time=2023, province='四川', major='航空航天类（民用航空）', minScore=660, maxScore=666, averageScore=661.33}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='四川', major='海洋工程类（智慧海洋试验班）', minScore=656, maxScore=660, averageScore=658.33}
+展示的专业为： 航空航天类（陈士橹飞天班）
+Score{time=2023, province='四川', major='航空航天类（陈士橹飞天班）', minScore=672, maxScore=673, averageScore=672.5}
+展示的专业为： 管理科学与工程类（管理试验班）
+Score{time=2023, province='四川', major='管理科学与工程类（管理试验班）', minScore=656, maxScore=656, averageScore=656.0}
+展示的专业为： 海洋工程类（黄震中海洋班）
+Score{time=2023, province='四川', major='海洋工程类（黄震中海洋班）', minScore=665, maxScore=667, averageScore=666.0}
+展示的省份为：浙江
+展示的专业为： 外国语言文学类
+Score{time=2023, province='浙江', major='外国语言文学类', minScore=654, maxScore=656, averageScore=655.0}
+展示的专业为： 经济与贸易类（国贸、法学、行管）
+Score{time=2023, province='浙江', major='经济与贸易类（国贸、法学、行管）', minScore=656, maxScore=658, averageScore=656.4}
+展示的省份为：广西
+展示的专业为： 计算机类
+Score{time=2023, province='广西', major='计算机类', minScore=639, maxScore=651, averageScore=645.4}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='广西', major='能源动力类（航空动力与新能源试验班）', minScore=641, maxScore=642, averageScore=641.5}
+展示的专业为： 软件工程
+Score{time=2023, province='广西', major='软件工程', minScore=637, maxScore=645, averageScore=639.2}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='广西', major='机械类（航宇智能制造试验班）', minScore=642, maxScore=645, averageScore=643.5}
+展示的专业为： 航空航天类
+Score{time=2023, province='广西', major='航空航天类', minScore=647, maxScore=655, averageScore=651.57}
+展示的专业为： 自动化类
+Score{time=2023, province='广西', major='自动化类', minScore=641, maxScore=644, averageScore=642.33}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='广西', major='航空航天类（智慧三航本研衔接班）', minScore=655, maxScore=658, averageScore=656.33}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='广西', major='海洋工程类（智慧海洋试验班）', minScore=635, maxScore=640, averageScore=636.8}
+展示的专业为： 生物技术（生命科学试验班）
+Score{time=2023, province='广西', major='生物技术（生命科学试验班）', minScore=635, maxScore=635, averageScore=635.0}
+展示的专业为： 电子信息类
+Score{time=2023, province='广西', major='电子信息类', minScore=641, maxScore=646, averageScore=643.5}
+展示的专业为： 力学类（工程应用力学试验班）
+Score{time=2023, province='广西', major='力学类（工程应用力学试验班）', minScore=635, maxScore=636, averageScore=635.5}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='广西', major='材料类（新材料与化工试验班）', minScore=636, maxScore=641, averageScore=638.4}
+展示的专业为： 物理学类
+Score{time=2023, province='广西', major='物理学类', minScore=638, maxScore=638, averageScore=638.0}
+展示的专业为： 建筑学
+Score{time=2023, province='广西', major='建筑学', minScore=635, maxScore=635, averageScore=635.0}
+展示的专业为： 航空航天类（黄玉珊航空班）
+Score{time=2023, province='广西', major='航空航天类（黄玉珊航空班）', minScore=654, maxScore=654, averageScore=654.0}
+展示的省份为：云南
+展示的专业为： 计算机科学与技术（计算机科学拔尖基地班）
+Score{time=2023, province='云南', major='计算机科学与技术（计算机科学拔尖基地班）', minScore=645, maxScore=645, averageScore=645.0}
+展示的专业为： 计算机类
+Score{time=2023, province='云南', major='计算机类', minScore=640, maxScore=642, averageScore=641.25}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='云南', major='能源动力类（航空动力与新能源试验班）', minScore=632, maxScore=637, averageScore=634.17}
+展示的专业为： 软件工程
+Score{time=2023, province='云南', major='软件工程', minScore=633, maxScore=633, averageScore=633.0}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='云南', major='机械类（航宇智能制造试验班）', minScore=636, maxScore=642, averageScore=639.2}
+展示的专业为： 航空航天类
+Score{time=2023, province='云南', major='航空航天类', minScore=645, maxScore=647, averageScore=645.86}
+展示的专业为： 自动化类
+Score{time=2023, province='云南', major='自动化类', minScore=633, maxScore=639, averageScore=635.25}
+展示的专业为： 数学类
+Score{time=2023, province='云南', major='数学类', minScore=633, maxScore=639, averageScore=636.0}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='云南', major='航空航天类（智慧三航本研衔接班）', minScore=648, maxScore=656, averageScore=652.0}
+展示的专业为： 生物技术（生命科学试验班）
+Score{time=2023, province='云南', major='生物技术（生命科学试验班）', minScore=637, maxScore=637, averageScore=637.0}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='云南', major='海洋工程类（智慧海洋试验班）', minScore=631, maxScore=631, averageScore=631.0}
+展示的专业为： 电子信息类
+Score{time=2023, province='云南', major='电子信息类', minScore=638, maxScore=638, averageScore=638.0}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='云南', major='材料类（新材料与化工试验班）', minScore=632, maxScore=633, averageScore=632.5}
+展示的专业为： 管理科学与工程类（管理试验班）
+Score{time=2023, province='云南', major='管理科学与工程类（管理试验班）', minScore=632, maxScore=632, averageScore=632.0}
+展示的省份为：内蒙古
+展示的专业为： 电子信息类
+Score{time=2023, province='内蒙古', major='电子信息类', minScore=618, maxScore=630, averageScore=621.8}
+展示的专业为： 力学类（工程应用力学试验班）
+Score{time=2023, province='内蒙古', major='力学类（工程应用力学试验班）', minScore=613, maxScore=613, averageScore=613.0}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='内蒙古', major='材料类（新材料与化工试验班）', minScore=610, maxScore=611, averageScore=610.33}
+展示的专业为： 计算机类
+Score{time=2023, province='内蒙古', major='计算机类', minScore=619, maxScore=620, averageScore=619.5}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='内蒙古', major='能源动力类（航空动力与新能源试验班）', minScore=613, maxScore=621, averageScore=615.56}
+展示的专业为： 软件工程
+Score{time=2023, province='内蒙古', major='软件工程', minScore=613, maxScore=617, averageScore=614.83}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='内蒙古', major='机械类（航宇智能制造试验班）', minScore=615, maxScore=622, averageScore=619.17}
+展示的专业为： 航空航天类
+Score{time=2023, province='内蒙古', major='航空航天类', minScore=622, maxScore=627, averageScore=624.25}
+展示的专业为： 自动化类
+Score{time=2023, province='内蒙古', major='自动化类', minScore=616, maxScore=629, averageScore=619.0}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='内蒙古', major='航空航天类（智慧三航本研衔接班）', minScore=630, maxScore=631, averageScore=630.5}
+展示的专业为： 航空航天类（黄玉珊航空班）
+Score{time=2023, province='内蒙古', major='航空航天类（黄玉珊航空班）', minScore=638, maxScore=638, averageScore=638.0}
+展示的省份为：辽宁
+展示的专业为： 电子信息类
+Score{time=2023, province='辽宁', major='电子信息类', minScore=661, maxScore=664, averageScore=661.8}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='辽宁', major='材料类（新材料与化工试验班）', minScore=656, maxScore=656, averageScore=656.0}
+展示的专业为： 计算机类
+Score{time=2023, province='辽宁', major='计算机类', minScore=666, maxScore=667, averageScore=666.5}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='辽宁', major='能源动力类（航空动力与新能源试验班）', minScore=657, maxScore=658, averageScore=657.83}
+展示的专业为： 软件工程
+Score{time=2023, province='辽宁', major='软件工程', minScore=658, maxScore=664, averageScore=661.5}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='辽宁', major='机械类（航宇智能制造试验班）', minScore=656, maxScore=658, averageScore=656.75}
+展示的专业为： 航空航天类
+Score{time=2023, province='辽宁', major='航空航天类', minScore=661, maxScore=667, averageScore=662.88}
+展示的专业为： 自动化类
+Score{time=2023, province='辽宁', major='自动化类', minScore=659, maxScore=665, averageScore=660.8}
+展示的专业为： 数学类
+Score{time=2023, province='辽宁', major='数学类', minScore=656, maxScore=657, averageScore=656.33}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='辽宁', major='航空航天类（智慧三航本研衔接班）', minScore=669, maxScore=669, averageScore=669.0}
+展示的专业为： 航空航天类（黄玉珊航空班）
+Score{time=2023, province='辽宁', major='航空航天类（黄玉珊航空班）', minScore=668, maxScore=674, averageScore=671.0}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='辽宁', major='海洋工程类（智慧海洋试验班）', minScore=653, maxScore=656, averageScore=654.5}
+展示的省份为：广东
+展示的专业为： 计算机科学与技术（计算机科学拔尖基地班）
+Score{time=2023, province='广东', major='计算机科学与技术（计算机科学拔尖基地班）', minScore=653, maxScore=654, averageScore=653.5}
+展示的专业为： 计算机类
+Score{time=2023, province='广东', major='计算机类', minScore=646, maxScore=653, averageScore=649.33}
+展示的专业为： 计算机类（网络安全）
+Score{time=2023, province='广东', major='计算机类（网络安全）', minScore=642, maxScore=644, averageScore=643.0}
+展示的专业为： 工商管理类（管理试验班）
+Score{time=2023, province='广东', major='工商管理类（管理试验班）', minScore=640, maxScore=641, averageScore=640.33}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='广东', major='能源动力类（航空动力与新能源试验班）', minScore=641, maxScore=646, averageScore=643.67}
+展示的专业为： 软件工程
+Score{time=2023, province='广东', major='软件工程', minScore=642, maxScore=645, averageScore=642.86}
+展示的专业为： 机械类（航宇智能制造试验班）
+Score{time=2023, province='广东', major='机械类（航宇智能制造试验班）', minScore=642, maxScore=648, averageScore=645.5}
+展示的专业为： 航空航天类
+Score{time=2023, province='广东', major='航空航天类', minScore=649, maxScore=653, averageScore=651.38}
+展示的专业为： 自动化类
+Score{time=2023, province='广东', major='自动化类', minScore=643, maxScore=650, averageScore=645.43}
+展示的专业为： 生态学（生态文明交叉试验班）
+Score{time=2023, province='广东', major='生态学（生态文明交叉试验班）', minScore=636, maxScore=637, averageScore=636.5}
+展示的专业为： 数学类
+Score{time=2023, province='广东', major='数学类', minScore=640, maxScore=644, averageScore=641.67}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='广东', major='航空航天类（智慧三航本研衔接班）', minScore=654, maxScore=654, averageScore=654.0}
+展示的专业为： 海洋工程类（智慧海洋试验班）
+Score{time=2023, province='广东', major='海洋工程类（智慧海洋试验班）', minScore=640, maxScore=649, averageScore=642.71}
+展示的专业为： 生物技术（生命科学试验班）
+Score{time=2023, province='广东', major='生物技术（生命科学试验班）', minScore=637, maxScore=638, averageScore=637.67}
+展示的专业为： 电子信息类
+Score{time=2023, province='广东', major='电子信息类', minScore=645, maxScore=646, averageScore=645.5}
+展示的专业为： 力学类（工程应用力学试验班）
+Score{time=2023, province='广东', major='力学类（工程应用力学试验班）', minScore=641, maxScore=641, averageScore=641.0}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='广东', major='材料类（新材料与化工试验班）', minScore=642, maxScore=649, averageScore=644.67}
+展示的专业为： 物理学类
+Score{time=2023, province='广东', major='物理学类', minScore=640, maxScore=643, averageScore=641.2}
+展示的专业为： 航空航天类（陈士橹飞天班）
+Score{time=2023, province='广东', major='航空航天类（陈士橹飞天班）', minScore=656, maxScore=672, averageScore=664.0}
+展示的专业为： 管理科学与工程类（管理试验班）
+Score{time=2023, province='广东', major='管理科学与工程类（管理试验班）', minScore=641, maxScore=641, averageScore=641.0}
+展示的专业为： 海洋工程类（黄震中海洋班）
+Score{time=2023, province='广东', major='海洋工程类（黄震中海洋班）', minScore=650, maxScore=654, averageScore=652.0}
+展示的省份为：青海
+展示的专业为： 电子信息类
+Score{time=2023, province='青海', major='电子信息类', minScore=545, maxScore=555, averageScore=550.0}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='青海', major='材料类（新材料与化工试验班）', minScore=543, maxScore=559, averageScore=551.0}
+展示的专业为： 软件工程
+Score{time=2023, province='青海', major='软件工程', minScore=544, maxScore=554, averageScore=549.67}
+展示的专业为： 航空航天类
+Score{time=2023, province='青海', major='航空航天类', minScore=563, maxScore=571, averageScore=567.0}
+展示的省份为：北京
+展示的专业为： 电子信息类
+Score{time=2023, province='北京', major='电子信息类', minScore=650, maxScore=650, averageScore=650.0}
+展示的专业为： 力学类（工程应用力学试验班）
+Score{time=2023, province='北京', major='力学类（工程应用力学试验班）', minScore=646, maxScore=647, averageScore=646.5}
+展示的专业为： 材料类（新材料与化工试验班）
+Score{time=2023, province='北京', major='材料类（新材料与化工试验班）', minScore=647, maxScore=647, averageScore=647.0}
+展示的专业为： 计算机类
+Score{time=2023, province='北京', major='计算机类', minScore=650, maxScore=651, averageScore=650.33}
+展示的专业为： 物理学类
+Score{time=2023, province='北京', major='物理学类', minScore=645, maxScore=648, averageScore=647.0}
+展示的专业为： 能源动力类（航空动力与新能源试验班）
+Score{time=2023, province='北京', major='能源动力类（航空动力与新能源试验班）', minScore=648, maxScore=650, averageScore=649.0}
+展示的专业为： 软件工程
+Score{time=2023, province='北京', major='软件工程', minScore=647, maxScore=649, averageScore=648.0}
+展示的专业为： 航空航天类（陈士橹飞天班）
+Score{time=2023, province='北京', major='航空航天类（陈士橹飞天班）', minScore=653, maxScore=655, averageScore=654.0}
+展示的专业为： 航空航天类
+Score{time=2023, province='北京', major='航空航天类', minScore=650, maxScore=652, averageScore=651.25}
+展示的专业为： 自动化类
+Score{time=2023, province='北京', major='自动化类', minScore=649, maxScore=650, averageScore=649.5}
+展示的专业为： 管理科学与工程类（管理试验班）
+Score{time=2023, province='北京', major='管理科学与工程类（管理试验班）', minScore=646, maxScore=646, averageScore=646.0}
+展示的专业为： 航空航天类（智慧三航本研衔接班）
+Score{time=2023, province='北京', major='航空航天类（智慧三航本研衔接班）', minScore=652, maxScore=653, averageScore=652.5}
+
+学校名为BUPT
+全国最高分之平均分：646.8461538461538
+全国最低分之平均分：621.6538461538462
+展示的省份为：山东
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='山东', major='自动化类（智能机器人与智慧物流）', minScore=648, maxScore=649, averageScore=649.0}
+展示的专业为： 计算机类
+Score{time=2023, province='山东', major='计算机类', minScore=656, maxScore=660, averageScore=658.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='山东', major='通信工程（大类招生）', minScore=651, maxScore=655, averageScore=652.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='山东', major='理科试验班（信息科学）', minScore=647, maxScore=648, averageScore=648.0}
+展示的专业为： 软件工程
+Score{time=2023, province='山东', major='软件工程', minScore=652, maxScore=656, averageScore=654.0}
+展示的专业为： 英语
+Score{time=2023, province='山东', major='英语', minScore=613, maxScore=617, averageScore=614.0}
+展示的专业为： 网络与新媒体
+Score{time=2023, province='山东', major='网络与新媒体', minScore=630, maxScore=642, averageScore=637.0}
+展示的专业为： 电子信息类
+Score{time=2023, province='山东', major='电子信息类', minScore=650, maxScore=652, averageScore=651.0}
+展示的专业为： 智能交互设计
+Score{time=2023, province='山东', major='智能交互设计', minScore=647, maxScore=648, averageScore=647.0}
+展示的专业为： 工商管理类
+Score{time=2023, province='山东', major='工商管理类', minScore=622, maxScore=625, averageScore=624.0}
+展示的专业为： 计算机类（元班）
+Score{time=2023, province='山东', major='计算机类（元班）', minScore=661, maxScore=666, averageScore=663.0}
+展示的专业为： 网络空间安全（大类招生）
+Score{time=2023, province='山东', major='网络空间安全（大类招生）', minScore=650, maxScore=651, averageScore=650.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='山东', major='人工智能（大类招生）', minScore=648, maxScore=651, averageScore=649.0}
+展示的专业为： 法学
+Score{time=2023, province='山东', major='法学', minScore=632, maxScore=634, averageScore=633.0}
+展示的省份为：福建
+展示的专业为： 电子信息类
+Score{time=2023, province='福建', major='电子信息类', minScore=641, maxScore=645, averageScore=642.0}
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='福建', major='自动化类（智能机器人与智慧物流）', minScore=640, maxScore=640, averageScore=640.0}
+展示的专业为： 智能交互设计
+Score{time=2023, province='福建', major='智能交互设计', minScore=640, maxScore=640, averageScore=640.0}
+展示的专业为： 计算机类
+Score{time=2023, province='福建', major='计算机类', minScore=645, maxScore=652, averageScore=648.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='福建', major='通信工程（大类招生）', minScore=642, maxScore=646, averageScore=643.0}
+展示的专业为： 网络空间安全（大类招生）
+Score{time=2023, province='福建', major='网络空间安全（大类招生）', minScore=641, maxScore=646, averageScore=643.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='福建', major='人工智能（大类招生）', minScore=640, maxScore=656, averageScore=642.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='福建', major='电子信息类（元班）', minScore=649, maxScore=656, averageScore=652.0}
+展示的省份为：西藏自治
+展示的专业为： 电子信息类
+Score{time=2023, province='西藏自治', major='电子信息类', minScore=601, maxScore=601, averageScore=601.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='西藏自治', major='通信工程（大类招生）', minScore=601, maxScore=601, averageScore=601.0}
+展示的专业为： 管理科学与工程类（商务智能与智慧供应链）
+Score{time=2023, province='西藏自治', major='管理科学与工程类（商务智能与智慧供应链）', minScore=417, maxScore=417, averageScore=417.0}
+展示的专业为： 大数据管理与应用
+Score{time=2023, province='西藏自治', major='大数据管理与应用', minScore=601, maxScore=601, averageScore=601.0}
+展示的省份为：河北
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='河北', major='自动化类（智能机器人与智慧物流）', minScore=642, maxScore=643, averageScore=643.0}
+展示的专业为： 计算机类
+Score{time=2023, province='河北', major='计算机类', minScore=653, maxScore=656, averageScore=655.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='河北', major='通信工程（大类招生）', minScore=648, maxScore=654, averageScore=650.0}
+展示的专业为： 管理科学与工程类（商务智能与智慧供应链）
+Score{time=2023, province='河北', major='管理科学与工程类（商务智能与智慧供应链）', minScore=626, maxScore=632, averageScore=629.0}
+展示的专业为： 软件工程
+Score{time=2023, province='河北', major='软件工程', minScore=646, maxScore=651, averageScore=647.0}
+展示的专业为： 大数据管理与应用
+Score{time=2023, province='河北', major='大数据管理与应用', minScore=643, maxScore=644, averageScore=643.0}
+展示的专业为： 英语
+Score{time=2023, province='河北', major='英语', minScore=605, maxScore=608, averageScore=606.0}
+展示的专业为： 网络与新媒体
+Score{time=2023, province='河北', major='网络与新媒体', minScore=614, maxScore=619, averageScore=617.0}
+展示的专业为： 电子信息类
+Score{time=2023, province='河北', major='电子信息类', minScore=644, maxScore=652, averageScore=646.0}
+展示的专业为： 智能交互设计
+Score{time=2023, province='河北', major='智能交互设计', minScore=642, maxScore=642, averageScore=642.0}
+展示的专业为： 工商管理类
+Score{time=2023, province='河北', major='工商管理类', minScore=617, maxScore=618, averageScore=618.0}
+展示的专业为： 计算机类（元班）
+Score{time=2023, province='河北', major='计算机类（元班）', minScore=657, maxScore=662, averageScore=660.0}
+展示的专业为： 网络空间安全（大类招生）
+Score{time=2023, province='河北', major='网络空间安全（大类招生）', minScore=645, maxScore=648, averageScore=647.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='河北', major='人工智能（大类招生）', minScore=642, maxScore=649, averageScore=643.0}
+展示的专业为： 法学
+Score{time=2023, province='河北', major='法学', minScore=624, maxScore=624, averageScore=624.0}
+展示的省份为：河南
+展示的专业为： 电子信息类
+Score{time=2023, province='河南', major='电子信息类', minScore=642, maxScore=645, averageScore=643.0}
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='河南', major='自动化类（智能机器人与智慧物流）', minScore=639, maxScore=641, averageScore=640.0}
+展示的专业为： 计算机类
+Score{time=2023, province='河南', major='计算机类', minScore=645, maxScore=657, averageScore=647.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='河南', major='通信工程（大类招生）', minScore=643, maxScore=649, averageScore=646.0}
+展示的专业为： 网络空间安全（大类招生）
+Score{time=2023, province='河南', major='网络空间安全（大类招生）', minScore=638, maxScore=651, averageScore=641.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='河南', major='人工智能（大类招生）', minScore=639, maxScore=644, averageScore=641.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='河南', major='理科试验班（信息科学）', minScore=638, maxScore=641, averageScore=639.0}
+展示的专业为： 软件工程
+Score{time=2023, province='河南', major='软件工程', minScore=640, maxScore=643, averageScore=641.0}
+展示的专业为： 数字媒体技术
+Score{time=2023, province='河南', major='数字媒体技术', minScore=639, maxScore=643, averageScore=641.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='河南', major='电子信息类（元班）', minScore=650, maxScore=656, averageScore=653.0}
+展示的专业为： 金融科技
+Score{time=2023, province='河南', major='金融科技', minScore=638, maxScore=639, averageScore=639.0}
+展示的省份为：重庆
+展示的专业为： 电子信息类
+Score{time=2023, province='重庆', major='电子信息类', minScore=635, maxScore=643, averageScore=638.0}
+展示的专业为： 计算机类
+Score{time=2023, province='重庆', major='计算机类', minScore=644, maxScore=649, averageScore=646.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='重庆', major='通信工程（大类招生）', minScore=635, maxScore=644, averageScore=638.0}
+展示的专业为： 计算机类（元班）
+Score{time=2023, province='重庆', major='计算机类（元班）', minScore=651, maxScore=658, averageScore=655.0}
+展示的专业为： 网络空间安全（大类招生）
+Score{time=2023, province='重庆', major='网络空间安全（大类招生）', minScore=630, maxScore=642, averageScore=633.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='重庆', major='理科试验班（信息科学）', minScore=630, maxScore=630, averageScore=630.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='重庆', major='人工智能（大类招生）', minScore=633, maxScore=634, averageScore=634.0}
+展示的专业为： 大数据管理与应用
+Score{time=2023, province='重庆', major='大数据管理与应用', minScore=619, maxScore=621, averageScore=620.0}
+展示的专业为： 软件工程
+Score{time=2023, province='重庆', major='软件工程', minScore=631, maxScore=641, averageScore=634.0}
+展示的专业为： 数字媒体技术
+Score{time=2023, province='重庆', major='数字媒体技术', minScore=631, maxScore=636, averageScore=634.0}
+展示的省份为：湖北
+展示的专业为： 电子信息类
+Score{time=2023, province='湖北', major='电子信息类', minScore=643, maxScore=650, averageScore=645.0}
+展示的专业为： 计算机类
+Score{time=2023, province='湖北', major='计算机类', minScore=644, maxScore=649, averageScore=645.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='湖北', major='通信工程（大类招生）', minScore=642, maxScore=645, averageScore=643.0}
+展示的专业为： 计算机类（元班）
+Score{time=2023, province='湖北', major='计算机类（元班）', minScore=651, maxScore=653, averageScore=652.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='湖北', major='人工智能（大类招生）', minScore=641, maxScore=644, averageScore=642.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='湖北', major='理科试验班（信息科学）', minScore=641, maxScore=642, averageScore=641.0}
+展示的专业为： 软件工程
+Score{time=2023, province='湖北', major='软件工程', minScore=641, maxScore=643, averageScore=642.0}
+展示的专业为： 大数据管理与应用
+Score{time=2023, province='湖北', major='大数据管理与应用', minScore=642, maxScore=642, averageScore=642.0}
+展示的专业为： 数字媒体技术
+Score{time=2023, province='湖北', major='数字媒体技术', minScore=641, maxScore=641, averageScore=641.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='湖北', major='电子信息类（元班）', minScore=650, maxScore=657, averageScore=653.0}
+展示的省份为：湖南
+展示的专业为： 电子信息类
+Score{time=2023, province='湖南', major='电子信息类', minScore=641, maxScore=646, averageScore=642.0}
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='湖南', major='自动化类（智能机器人与智慧物流）', minScore=639, maxScore=639, averageScore=639.0}
+展示的专业为： 智能交互设计
+Score{time=2023, province='湖南', major='智能交互设计', minScore=641, maxScore=642, averageScore=642.0}
+展示的专业为： 计算机类
+Score{time=2023, province='湖南', major='计算机类', minScore=643, maxScore=647, averageScore=645.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='湖南', major='通信工程（大类招生）', minScore=643, maxScore=647, averageScore=644.0}
+展示的专业为： 计算机类（元班）
+Score{time=2023, province='湖南', major='计算机类（元班）', minScore=650, maxScore=652, averageScore=651.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='湖南', major='人工智能（大类招生）', minScore=639, maxScore=643, averageScore=641.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='湖南', major='理科试验班（信息科学）', minScore=641, maxScore=643, averageScore=642.0}
+展示的专业为： 软件工程
+Score{time=2023, province='湖南', major='软件工程', minScore=640, maxScore=643, averageScore=641.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='湖南', major='电子信息类（元班）', minScore=650, maxScore=651, averageScore=651.0}
+展示的省份为：江西
+展示的专业为： 电子信息类
+Score{time=2023, province='江西', major='电子信息类', minScore=629, maxScore=634, averageScore=631.0}
+展示的专业为： 计算机类
+Score{time=2023, province='江西', major='计算机类', minScore=633, maxScore=637, averageScore=635.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='江西', major='通信工程（大类招生）', minScore=631, maxScore=639, averageScore=633.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='江西', major='人工智能（大类招生）', minScore=628, maxScore=631, averageScore=629.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='江西', major='理科试验班（信息科学）', minScore=627, maxScore=628, averageScore=627.0}
+展示的专业为： 大数据管理与应用
+Score{time=2023, province='江西', major='大数据管理与应用', minScore=628, maxScore=630, averageScore=629.0}
+展示的专业为： 数字媒体技术
+Score{time=2023, province='江西', major='数字媒体技术', minScore=633, maxScore=638, averageScore=636.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='江西', major='电子信息类（元班）', minScore=639, maxScore=645, averageScore=642.0}
+展示的省份为：海南
+展示的专业为： 电子信息类
+Score{time=2023, province='海南', major='电子信息类', minScore=731, maxScore=732, averageScore=732.0}
+展示的专业为： 智能交互设计
+Score{time=2023, province='海南', major='智能交互设计', minScore=721, maxScore=725, averageScore=723.0}
+展示的专业为： 计算机类
+Score{time=2023, province='海南', major='计算机类', minScore=736, maxScore=749, averageScore=740.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='海南', major='通信工程（大类招生）', minScore=733, maxScore=753, averageScore=736.0}
+展示的专业为： 计算机类（元班）
+Score{time=2023, province='海南', major='计算机类（元班）', minScore=755, maxScore=758, averageScore=757.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='海南', major='人工智能（大类招生）', minScore=723, maxScore=729, averageScore=726.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='海南', major='理科试验班（信息科学）', minScore=721, maxScore=724, averageScore=723.0}
+展示的专业为： 软件工程
+Score{time=2023, province='海南', major='软件工程', minScore=725, maxScore=732, averageScore=729.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='海南', major='电子信息类（元班）', minScore=751, maxScore=754, averageScore=753.0}
+展示的省份为：新疆维吾尔自治
+展示的专业为： 电子信息类
+Score{time=2023, province='新疆维吾尔自治', major='电子信息类', minScore=585, maxScore=589, averageScore=586.0}
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='新疆维吾尔自治', major='自动化类（智能机器人与智慧物流）', minScore=584, maxScore=585, averageScore=585.0}
+展示的专业为： 计算机类
+Score{time=2023, province='新疆维吾尔自治', major='计算机类', minScore=590, maxScore=602, averageScore=594.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='新疆维吾尔自治', major='通信工程（大类招生）', minScore=587, maxScore=594, averageScore=589.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='新疆维吾尔自治', major='人工智能（大类招生）', minScore=585, maxScore=589, averageScore=586.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='新疆维吾尔自治', major='理科试验班（信息科学）', minScore=584, maxScore=585, averageScore=585.0}
+展示的专业为： 软件工程
+Score{time=2023, province='新疆维吾尔自治', major='软件工程', minScore=586, maxScore=589, averageScore=587.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='新疆维吾尔自治', major='电子信息类（元班）', minScore=598, maxScore=599, averageScore=598.0}
+展示的省份为：黑龙江
+展示的专业为： 电子信息类
+Score{time=2023, province='黑龙江', major='电子信息类', minScore=616, maxScore=619, averageScore=616.0}
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='黑龙江', major='自动化类（智能机器人与智慧物流）', minScore=612, maxScore=614, averageScore=613.0}
+展示的专业为： 计算机类
+Score{time=2023, province='黑龙江', major='计算机类', minScore=620, maxScore=629, averageScore=622.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='黑龙江', major='通信工程（大类招生）', minScore=617, maxScore=622, averageScore=619.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='黑龙江', major='人工智能（大类招生）', minScore=612, maxScore=615, averageScore=613.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='黑龙江', major='理科试验班（信息科学）', minScore=612, maxScore=615, averageScore=614.0}
+展示的专业为： 数字媒体技术
+Score{time=2023, province='黑龙江', major='数字媒体技术', minScore=613, maxScore=618, averageScore=615.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='黑龙江', major='电子信息类（元班）', minScore=622, maxScore=639, averageScore=629.0}
+展示的省份为：内蒙古自治
+展示的专业为： 电子信息类
+Score{time=2023, province='内蒙古自治', major='电子信息类', minScore=608, maxScore=622, averageScore=610.0}
+展示的专业为： 计算机类
+Score{time=2023, province='内蒙古自治', major='计算机类', minScore=611, maxScore=624, averageScore=616.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='内蒙古自治', major='通信工程（大类招生）', minScore=612, maxScore=626, averageScore=618.0}
+展示的专业为： 计算机类（元班）
+Score{time=2023, province='内蒙古自治', major='计算机类（元班）', minScore=627, maxScore=631, averageScore=629.0}
+展示的专业为： 网络空间安全（大类招生）
+Score{time=2023, province='内蒙古自治', major='网络空间安全（大类招生）', minScore=607, maxScore=610, averageScore=608.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='内蒙古自治', major='人工智能（大类招生）', minScore=591, maxScore=614, averageScore=603.0}
+展示的专业为： 软件工程
+Score{time=2023, province='内蒙古自治', major='软件工程', minScore=596, maxScore=611, averageScore=604.0}
+展示的专业为： 数字媒体技术
+Score{time=2023, province='内蒙古自治', major='数字媒体技术', minScore=591, maxScore=596, averageScore=594.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='内蒙古自治', major='电子信息类（元班）', minScore=633, maxScore=634, averageScore=634.0}
+展示的专业为： 金融科技
+Score{time=2023, province='内蒙古自治', major='金融科技', minScore=591, maxScore=591, averageScore=591.0}
+展示的省份为：天津
+展示的专业为： 电子信息类
+Score{time=2023, province='天津', major='电子信息类', minScore=662, maxScore=670, averageScore=665.0}
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='天津', major='自动化类（智能机器人与智慧物流）', minScore=659, maxScore=661, averageScore=660.0}
+展示的专业为： 计算机类
+Score{time=2023, province='天津', major='计算机类', minScore=672, maxScore=677, averageScore=674.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='天津', major='通信工程（大类招生）', minScore=664, maxScore=673, averageScore=667.0}
+展示的专业为： 计算机类（元班）
+Score{time=2023, province='天津', major='计算机类（元班）', minScore=679, maxScore=684, averageScore=681.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='天津', major='人工智能（大类招生）', minScore=660, maxScore=664, averageScore=661.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='天津', major='理科试验班（信息科学）', minScore=659, maxScore=660, averageScore=660.0}
+展示的专业为： 软件工程
+Score{time=2023, province='天津', major='软件工程', minScore=661, maxScore=666, averageScore=662.0}
+展示的专业为： 数字媒体技术
+Score{time=2023, province='天津', major='数字媒体技术', minScore=659, maxScore=663, averageScore=661.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='天津', major='电子信息类（元班）', minScore=678, maxScore=680, averageScore=679.0}
+展示的省份为：贵州
+展示的专业为： 电子信息类
+Score{time=2023, province='贵州', major='电子信息类', minScore=623, maxScore=626, averageScore=625.0}
+展示的专业为： 计算机类
+Score{time=2023, province='贵州', major='计算机类', minScore=629, maxScore=639, averageScore=632.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='贵州', major='通信工程（大类招生）', minScore=623, maxScore=628, averageScore=625.0}
+展示的专业为： 管理科学与工程类（商务智能与智慧供应链）
+Score{time=2023, province='贵州', major='管理科学与工程类（商务智能与智慧供应链）', minScore=622, maxScore=622, averageScore=622.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='贵州', major='人工智能（大类招生）', minScore=622, maxScore=626, averageScore=623.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='贵州', major='理科试验班（信息科学）', minScore=622, maxScore=622, averageScore=622.0}
+展示的专业为： 软件工程
+Score{time=2023, province='贵州', major='软件工程', minScore=624, maxScore=625, averageScore=625.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='贵州', major='电子信息类（元班）', minScore=634, maxScore=640, averageScore=636.0}
+展示的专业为： 金融科技
+Score{time=2023, province='贵州', major='金融科技', minScore=622, maxScore=622, averageScore=622.0}
+展示的省份为：陕西
+展示的专业为： 电子信息类
+Score{time=2023, province='陕西', major='电子信息类', minScore=618, maxScore=632, averageScore=620.0}
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='陕西', major='自动化类（智能机器人与智慧物流）', minScore=617, maxScore=617, averageScore=617.0}
+展示的专业为： 计算机类
+Score{time=2023, province='陕西', major='计算机类', minScore=623, maxScore=640, averageScore=630.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='陕西', major='通信工程（大类招生）', minScore=620, maxScore=643, averageScore=627.0}
+展示的专业为： 计算机类（元班）
+Score{time=2023, province='陕西', major='计算机类（元班）', minScore=636, maxScore=639, averageScore=638.0}
+展示的专业为： 网络空间安全（大类招生）
+Score{time=2023, province='陕西', major='网络空间安全（大类招生）', minScore=617, maxScore=621, averageScore=619.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='陕西', major='人工智能（大类招生）', minScore=616, maxScore=622, averageScore=618.0}
+展示的专业为： 数字媒体技术
+Score{time=2023, province='陕西', major='数字媒体技术', minScore=616, maxScore=620, averageScore=618.0}
+展示的省份为：广西壮族自治
+展示的专业为： 电子信息类
+Score{time=2023, province='广西壮族自治', major='电子信息类', minScore=627, maxScore=635, averageScore=630.0}
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='广西壮族自治', major='自动化类（智能机器人与智慧物流）', minScore=625, maxScore=625, averageScore=625.0}
+展示的专业为： 智能交互设计
+Score{time=2023, province='广西壮族自治', major='智能交互设计', minScore=625, maxScore=630, averageScore=626.0}
+展示的专业为： 计算机类
+Score{time=2023, province='广西壮族自治', major='计算机类', minScore=633, maxScore=645, averageScore=637.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='广西壮族自治', major='通信工程（大类招生）', minScore=630, maxScore=637, averageScore=632.0}
+展示的专业为： 网络空间安全（大类招生）
+Score{time=2023, province='广西壮族自治', major='网络空间安全（大类招生）', minScore=625, maxScore=643, averageScore=628.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='广西壮族自治', major='人工智能（大类招生）', minScore=625, maxScore=631, averageScore=628.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='广西壮族自治', major='理科试验班（信息科学）', minScore=625, maxScore=629, averageScore=626.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='广西壮族自治', major='电子信息类（元班）', minScore=640, maxScore=653, averageScore=647.0}
+展示的专业为： 金融科技
+Score{time=2023, province='广西壮族自治', major='金融科技', minScore=625, maxScore=630, averageScore=627.0}
+展示的省份为：宁夏回族自治
+展示的专业为： 电子信息类
+Score{time=2023, province='宁夏回族自治', major='电子信息类', minScore=559, maxScore=562, averageScore=560.0}
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='宁夏回族自治', major='自动化类（智能机器人与智慧物流）', minScore=552, maxScore=552, averageScore=552.0}
+展示的专业为： 计算机类
+Score{time=2023, province='宁夏回族自治', major='计算机类', minScore=562, maxScore=588, averageScore=568.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='宁夏回族自治', major='通信工程（大类招生）', minScore=556, maxScore=563, averageScore=559.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='宁夏回族自治', major='人工智能（大类招生）', minScore=552, maxScore=556, averageScore=553.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='宁夏回族自治', major='理科试验班（信息科学）', minScore=552, maxScore=553, averageScore=552.0}
+展示的专业为： 软件工程
+Score{time=2023, province='宁夏回族自治', major='软件工程', minScore=561, maxScore=561, averageScore=561.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='宁夏回族自治', major='电子信息类（元班）', minScore=569, maxScore=570, averageScore=569.0}
+展示的省份为：江苏
+展示的专业为： 电子信息类
+Score{time=2023, province='江苏', major='电子信息类', minScore=651, maxScore=652, averageScore=652.0}
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='江苏', major='自动化类（智能机器人与智慧物流）', minScore=650, maxScore=651, averageScore=650.0}
+展示的专业为： 计算机类
+Score{time=2023, province='江苏', major='计算机类', minScore=652, maxScore=655, averageScore=654.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='江苏', major='通信工程（大类招生）', minScore=652, maxScore=654, averageScore=653.0}
+展示的专业为： 计算机类（元班）
+Score{time=2023, province='江苏', major='计算机类（元班）', minScore=655, maxScore=656, averageScore=656.0}
+展示的专业为： 网络空间安全（大类招生）
+Score{time=2023, province='江苏', major='网络空间安全（大类招生）', minScore=650, maxScore=650, averageScore=650.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='江苏', major='人工智能（大类招生）', minScore=650, maxScore=651, averageScore=650.0}
+展示的专业为： 数字媒体技术
+Score{time=2023, province='江苏', major='数字媒体技术', minScore=650, maxScore=652, averageScore=651.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='江苏', major='电子信息类（元班）', minScore=655, maxScore=657, averageScore=656.0}
+展示的省份为：安徽
+展示的专业为： 电子信息类
+Score{time=2023, province='安徽', major='电子信息类', minScore=641, maxScore=647, averageScore=643.0}
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='安徽', major='自动化类（智能机器人与智慧物流）', minScore=640, maxScore=642, averageScore=641.0}
+展示的专业为： 计算机类
+Score{time=2023, province='安徽', major='计算机类', minScore=643, maxScore=652, averageScore=647.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='安徽', major='通信工程（大类招生）', minScore=642, maxScore=650, averageScore=645.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='安徽', major='人工智能（大类招生）', minScore=639, maxScore=644, averageScore=641.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='安徽', major='理科试验班（信息科学）', minScore=640, maxScore=642, averageScore=641.0}
+展示的专业为： 大数据管理与应用
+Score{time=2023, province='安徽', major='大数据管理与应用', minScore=639, maxScore=642, averageScore=640.0}
+展示的专业为： 数字媒体技术
+Score{time=2023, province='安徽', major='数字媒体技术', minScore=643, maxScore=648, averageScore=646.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='安徽', major='电子信息类（元班）', minScore=650, maxScore=656, averageScore=652.0}
+展示的省份为：吉林
+展示的专业为： 电子信息类
+Score{time=2023, province='吉林', major='电子信息类', minScore=615, maxScore=622, averageScore=617.0}
+展示的专业为： 计算机类
+Score{time=2023, province='吉林', major='计算机类', minScore=619, maxScore=624, averageScore=622.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='吉林', major='通信工程（大类招生）', minScore=616, maxScore=623, averageScore=619.0}
+展示的专业为： 计算机类（元班）
+Score{time=2023, province='吉林', major='计算机类（元班）', minScore=625, maxScore=641, averageScore=629.0}
+展示的专业为： 网络空间安全（大类招生）
+Score{time=2023, province='吉林', major='网络空间安全（大类招生）', minScore=614, maxScore=619, averageScore=616.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='吉林', major='人工智能（大类招生）', minScore=612, maxScore=615, averageScore=613.0}
+展示的省份为：上海
+展示的专业为： 电子信息类
+Score{time=2023, province='上海', major='电子信息类', minScore=502, maxScore=503, averageScore=501.6}
+展示的专业为： 智能交互设计
+Score{time=2023, province='上海', major='智能交互设计', minScore=501, maxScore=501, averageScore=500.72}
+展示的专业为： 计算机类
+Score{time=2023, province='上海', major='计算机类', minScore=503, maxScore=503, averageScore=503.36}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='上海', major='通信工程（大类招生）', minScore=502, maxScore=503, averageScore=502.48}
+展示的专业为： 计算机类（元班）
+Score{time=2023, province='上海', major='计算机类（元班）', minScore=505, maxScore=505, averageScore=505.12}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='上海', major='人工智能（大类招生）', minScore=501, maxScore=502, averageScore=501.6}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='上海', major='理科试验班（信息科学）', minScore=501, maxScore=501, averageScore=500.72}
+展示的专业为： 软件工程
+Score{time=2023, province='上海', major='软件工程', minScore=501, maxScore=502, averageScore=501.6}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='上海', major='电子信息类（元班）', minScore=505, maxScore=505, averageScore=505.12}
+展示的省份为：山西
+展示的专业为： 电子信息类
+Score{time=2023, province='山西', major='电子信息类', minScore=622, maxScore=630, averageScore=624.0}
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='山西', major='自动化类（智能机器人与智慧物流）', minScore=619, maxScore=622, averageScore=620.0}
+展示的专业为： 计算机类
+Score{time=2023, province='山西', major='计算机类', minScore=624, maxScore=634, averageScore=628.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='山西', major='通信工程（大类招生）', minScore=624, maxScore=632, averageScore=627.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='山西', major='人工智能（大类招生）', minScore=620, maxScore=624, averageScore=621.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='山西', major='理科试验班（信息科学）', minScore=619, maxScore=620, averageScore=619.0}
+展示的专业为： 软件工程
+Score{time=2023, province='山西', major='软件工程', minScore=620, maxScore=623, averageScore=621.0}
+展示的专业为： 数字媒体技术
+Score{time=2023, province='山西', major='数字媒体技术', minScore=623, maxScore=623, averageScore=623.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='山西', major='电子信息类（元班）', minScore=633, maxScore=638, averageScore=635.0}
+展示的省份为：甘肃
+展示的专业为： 电子信息类
+Score{time=2023, province='甘肃', major='电子信息类', minScore=589, maxScore=600, averageScore=592.0}
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='甘肃', major='自动化类（智能机器人与智慧物流）', minScore=585, maxScore=587, averageScore=586.0}
+展示的专业为： 计算机类
+Score{time=2023, province='甘肃', major='计算机类', minScore=591, maxScore=599, averageScore=594.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='甘肃', major='通信工程（大类招生）', minScore=590, maxScore=597, averageScore=592.0}
+展示的专业为： 管理科学与工程类（商务智能与智慧供应链）
+Score{time=2023, province='甘肃', major='管理科学与工程类（商务智能与智慧供应链）', minScore=584, maxScore=585, averageScore=585.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='甘肃', major='人工智能（大类招生）', minScore=586, maxScore=591, averageScore=588.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='甘肃', major='理科试验班（信息科学）', minScore=584, maxScore=585, averageScore=584.0}
+展示的专业为： 软件工程
+Score{time=2023, province='甘肃', major='软件工程', minScore=586, maxScore=591, averageScore=588.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='甘肃', major='电子信息类（元班）', minScore=601, maxScore=610, averageScore=606.0}
+展示的省份为：四川
+展示的专业为： 电子信息类
+Score{time=2023, province='四川', major='电子信息类', minScore=652, maxScore=659, averageScore=654.0}
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='四川', major='自动化类（智能机器人与智慧物流）', minScore=650, maxScore=654, averageScore=651.0}
+展示的专业为： 计算机类
+Score{time=2023, province='四川', major='计算机类', minScore=656, maxScore=663, averageScore=659.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='四川', major='通信工程（大类招生）', minScore=654, maxScore=662, averageScore=656.0}
+展示的专业为： 计算机类（元班）
+Score{time=2023, province='四川', major='计算机类（元班）', minScore=663, maxScore=667, averageScore=665.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='四川', major='人工智能（大类招生）', minScore=651, maxScore=656, averageScore=652.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='四川', major='理科试验班（信息科学）', minScore=650, maxScore=651, averageScore=650.0}
+展示的专业为： 数字媒体技术
+Score{time=2023, province='四川', major='数字媒体技术', minScore=652, maxScore=655, averageScore=653.0}
+展示的省份为：浙江
+展示的专业为： 电子信息类
+Score{time=2023, province='浙江', major='电子信息类', minScore=663, maxScore=665, averageScore=663.0}
+展示的专业为： 计算机类
+Score{time=2023, province='浙江', major='计算机类', minScore=668, maxScore=671, averageScore=669.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='浙江', major='通信工程（大类招生）', minScore=663, maxScore=665, averageScore=663.0}
+展示的专业为： 计算机类（元班）
+Score{time=2023, province='浙江', major='计算机类（元班）', minScore=672, maxScore=675, averageScore=673.0}
+展示的专业为： 网络空间安全（大类招生）
+Score{time=2023, province='浙江', major='网络空间安全（大类招生）', minScore=663, maxScore=665, averageScore=664.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='浙江', major='人工智能（大类招生）', minScore=663, maxScore=667, averageScore=664.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='浙江', major='理科试验班（信息科学）', minScore=662, maxScore=663, averageScore=662.0}
+展示的专业为： 软件工程
+Score{time=2023, province='浙江', major='软件工程', minScore=667, maxScore=668, averageScore=668.0}
+展示的省份为：云南
+展示的专业为： 电子信息类
+Score{time=2023, province='云南', major='电子信息类', minScore=630, maxScore=634, averageScore=631.0}
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='云南', major='自动化类（智能机器人与智慧物流）', minScore=626, maxScore=627, averageScore=626.0}
+展示的专业为： 计算机类
+Score{time=2023, province='云南', major='计算机类', minScore=633, maxScore=635, averageScore=634.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='云南', major='通信工程（大类招生）', minScore=631, maxScore=641, averageScore=633.0}
+展示的专业为： 网络空间安全（大类招生）
+Score{time=2023, province='云南', major='网络空间安全（大类招生）', minScore=627, maxScore=631, averageScore=629.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='云南', major='人工智能（大类招生）', minScore=626, maxScore=630, averageScore=628.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='云南', major='理科试验班（信息科学）', minScore=626, maxScore=629, averageScore=628.0}
+展示的专业为： 大数据管理与应用
+Score{time=2023, province='云南', major='大数据管理与应用', minScore=626, maxScore=626, averageScore=626.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='云南', major='电子信息类（元班）', minScore=636, maxScore=649, averageScore=641.0}
+展示的省份为：辽宁
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='辽宁', major='自动化类（智能机器人与智慧物流）', minScore=653, maxScore=658, averageScore=655.0}
+展示的专业为： 计算机类
+Score{time=2023, province='辽宁', major='计算机类', minScore=664, maxScore=666, averageScore=665.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='辽宁', major='通信工程（大类招生）', minScore=660, maxScore=666, averageScore=662.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='辽宁', major='理科试验班（信息科学）', minScore=651, maxScore=655, averageScore=653.0}
+展示的专业为： 软件工程
+Score{time=2023, province='辽宁', major='软件工程', minScore=659, maxScore=661, averageScore=660.0}
+展示的专业为： 英语
+Score{time=2023, province='辽宁', major='英语', minScore=596, maxScore=602, averageScore=598.0}
+展示的专业为： 网络与新媒体
+Score{time=2023, province='辽宁', major='网络与新媒体', minScore=606, maxScore=611, averageScore=609.0}
+展示的专业为： 电子信息类
+Score{time=2023, province='辽宁', major='电子信息类', minScore=658, maxScore=663, averageScore=659.0}
+展示的专业为： 智能交互设计
+Score{time=2023, province='辽宁', major='智能交互设计', minScore=653, maxScore=655, averageScore=654.0}
+展示的专业为： 工商管理类
+Score{time=2023, province='辽宁', major='工商管理类', minScore=609, maxScore=614, averageScore=612.0}
+展示的专业为： 计算机类（元班）
+Score{time=2023, province='辽宁', major='计算机类（元班）', minScore=667, maxScore=670, averageScore=668.0}
+展示的专业为： 网络空间安全（大类招生）
+Score{time=2023, province='辽宁', major='网络空间安全（大类招生）', minScore=655, maxScore=660, averageScore=656.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='辽宁', major='人工智能（大类招生）', minScore=656, maxScore=658, averageScore=657.0}
+展示的专业为： 法学
+Score{time=2023, province='辽宁', major='法学', minScore=617, maxScore=619, averageScore=618.0}
+展示的省份为：广东
+展示的专业为： 电子信息类
+Score{time=2023, province='广东', major='电子信息类', minScore=639, maxScore=651, averageScore=641.0}
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='广东', major='自动化类（智能机器人与智慧物流）', minScore=636, maxScore=636, averageScore=636.0}
+展示的专业为： 智能交互设计
+Score{time=2023, province='广东', major='智能交互设计', minScore=636, maxScore=637, averageScore=637.0}
+展示的专业为： 计算机类
+Score{time=2023, province='广东', major='计算机类', minScore=642, maxScore=656, averageScore=647.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='广东', major='通信工程（大类招生）', minScore=641, maxScore=655, averageScore=643.0}
+展示的专业为： 计算机类（元班）
+Score{time=2023, province='广东', major='计算机类（元班）', minScore=664, maxScore=666, averageScore=665.0}
+展示的专业为： 网络空间安全（大类招生）
+Score{time=2023, province='广东', major='网络空间安全（大类招生）', minScore=636, maxScore=641, averageScore=637.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='广东', major='人工智能（大类招生）', minScore=636, maxScore=644, averageScore=638.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='广东', major='理科试验班（信息科学）', minScore=636, maxScore=640, averageScore=638.0}
+展示的专业为： 大数据管理与应用
+Score{time=2023, province='广东', major='大数据管理与应用', minScore=637, maxScore=640, averageScore=638.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='广东', major='电子信息类（元班）', minScore=658, maxScore=661, averageScore=659.0}
+展示的省份为：青海
+展示的专业为： 电子信息类
+Score{time=2023, province='青海', major='电子信息类', minScore=540, maxScore=545, averageScore=543.0}
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='青海', major='自动化类（智能机器人与智慧物流）', minScore=527, maxScore=539, averageScore=535.0}
+展示的专业为： 计算机类
+Score{time=2023, province='青海', major='计算机类', minScore=551, maxScore=561, averageScore=557.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='青海', major='通信工程（大类招生）', minScore=550, maxScore=555, averageScore=552.0}
+展示的专业为： 管理科学与工程类（商务智能与智慧供应链）
+Score{time=2023, province='青海', major='管理科学与工程类（商务智能与智慧供应链）', minScore=532, maxScore=532, averageScore=532.0}
+展示的专业为： 大数据管理与应用
+Score{time=2023, province='青海', major='大数据管理与应用', minScore=527, maxScore=534, averageScore=531.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='青海', major='电子信息类（元班）', minScore=559, maxScore=581, averageScore=570.0}
+展示的省份为：北京
+展示的专业为： 电子信息类
+Score{time=2023, province='北京', major='电子信息类', minScore=647, maxScore=654, averageScore=648.0}
+展示的专业为： 自动化类（智能机器人与智慧物流）
+Score{time=2023, province='北京', major='自动化类（智能机器人与智慧物流）', minScore=646, maxScore=646, averageScore=646.0}
+展示的专业为： 智能交互设计
+Score{time=2023, province='北京', major='智能交互设计', minScore=648, maxScore=649, averageScore=649.0}
+展示的专业为： 计算机类
+Score{time=2023, province='北京', major='计算机类', minScore=652, maxScore=657, averageScore=654.0}
+展示的专业为： 通信工程（大类招生）
+Score{time=2023, province='北京', major='通信工程（大类招生）', minScore=648, maxScore=657, averageScore=651.0}
+展示的专业为： 计算机类（元班）
+Score{time=2023, province='北京', major='计算机类（元班）', minScore=660, maxScore=666, averageScore=662.0}
+展示的专业为： 网络空间安全（大类招生）
+Score{time=2023, province='北京', major='网络空间安全（大类招生）', minScore=646, maxScore=650, averageScore=647.0}
+展示的专业为： 人工智能（大类招生）
+Score{time=2023, province='北京', major='人工智能（大类招生）', minScore=646, maxScore=651, averageScore=647.0}
+展示的专业为： 理科试验班（信息科学）
+Score{time=2023, province='北京', major='理科试验班（信息科学）', minScore=653, maxScore=655, averageScore=654.0}
+展示的专业为： 软件工程
+Score{time=2023, province='北京', major='软件工程', minScore=647, maxScore=651, averageScore=648.0}
+展示的专业为： 电子信息类（元班）
+Score{time=2023, province='北京', major='电子信息类（元班）', minScore=658, maxScore=670, averageScore=661.0}
+
+现在比较的专业为：电子信息类
+BUPT的电子信息类专业各省平均： 最高分：635.3076923076923最低分：629.4230769230769平均分：630.9846153846154
+BUPT的电子信息类（元班）专业各省平均： 最高分：640.1111111111111最低分：633.6666666666666平均分：636.3955555555555
+NWPU的电子信息类专业各省平均： 最高分：642.6666666666666最低分：639.2916666666666平均分：640.4554166666666
+NWPU的电子信息类（集成电路）专业各省平均： 最高分：635.6最低分：629.9平均分：631.47
+现在比较的专业为：计算机类
+BUPT的计算机类专业各省平均： 最高分：640.5384615384615最低分：633.7307692307693平均分：636.3215384615385
+BUPT的计算机类（元班）专业各省平均： 最高分：650.6666666666666最低分：646.4平均分：648.208
+NWPU的计算机类专业各省平均： 最高分：645.4583333333334最低分：641.6666666666666平均分：643.1779166666666
+NWPU的计算机类（网络安全）专业各省平均： 最高分：633.8888888888889最低分：631.0平均分：632.1483333333332
+现在比较的专业为：工商管理类
+BUPT的工商管理类专业各省平均： 最高分：619.0最低分：616.0平均分：618.0
+NWPU的工商管理类（管理试验班）专业各省平均： 最高分：630.1538461538462最低分：629.9230769230769平均分：630.0061538461539
+现在比较的专业为：管理科学与工程类
+BUPT的管理科学与工程类（商务智能与智慧供应链）专业各省平均： 最高分：613.0最低分：610.6666666666666平均分：612.0
+NWPU的管理科学与工程类（管理试验班）专业各省平均： 最高分：635.0最低分：634.7272727272727平均分：634.8563636363637
+现在比较的专业为：软件工程
+BUPT的软件工程专业各省平均： 最高分：630.2最低分：626.7333333333333平均分：627.9733333333334
+NWPU的软件工程专业各省平均： 最高分：643.2272727272727最低分：639.3181818181819平均分：640.5863636363637
+现在比较的专业为：自动化类
+BUPT的自动化类（智能机器人与智慧物流）专业各省平均： 最高分：633.5263157894736最低分：632.1052631578947平均分：632.7368421052631
+NWPU的自动化类专业各省平均： 最高分：643.8260869565217最低分：639.7391304347826平均分：641.1334782608694
+
